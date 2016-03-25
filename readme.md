@@ -1,7 +1,9 @@
 # DCFem Tech Site
 
-Dev notes:
-`gem install bundler` if you don't have bundler
-`bundle install`
+## Development
+This site uses (http://jekyllrb.com/)[Jekyll] and hosts on Github pages.
 
-`jekyll serve`
+If you don't have bundler:
+- `gem install bundler`
+- `bundle install`
+- `jekyll serve`
