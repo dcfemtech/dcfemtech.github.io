@@ -2,8 +2,11 @@
   background-color: $color-blue;
   color: #fff;
   font-size: .8em;
+  position: relative;
+  z-index: 1;
   .l-wrapper-large {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
   a {
@@ -17,20 +20,25 @@
   }
   &__logo {
     display: block;
+    flex-basis: 150px;
     flex-grow: 1;
     flex-shrink: 0;
+    margin: 0 auto;
     max-width: 150px;
-    .color2 path {
-      fill: #fff;
-    }
   }
 
   &__links {
-    display: inline-block;
     align-self: center;
+    display: block;
+    flex-grow: 1;
+    text-align: right;
     li {
       display: inline-block;
-      padding: 5px 10px;
+      padding: 5px;
+    }
+    @media(max-width: $break-medium) {
+      margin-top: 10px;
+      text-align: center;
     }
   }
 }
