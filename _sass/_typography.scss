@@ -1,0 +1,49 @@
+body {
+  border-top: 10px solid $color-teal;
+  color: $color-body;
+  font-family: 'Open Sans', Helvetica, san-serif;
+  font-size: 18px;
+  font-weight: 400;
+  @media(max-width: $break-medium) {
+    font-size: 16px;
+  }
+  @media(max-width: $break-small) {
+    font-size: 14px;
+  }
+}
+
+p {
+  line-height: 1.8;
+  margin: 10px 0;
+}
+
+a {
+  color: $color-pink;
+  font-weight: 700;
+  text-decoration: none;
+  -webkit-transition: color 100ms;
+  &:hover {
+    color: $color-gold;
+    -webkit-transition: color 100ms;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+  margin-bottom: 30px;
+  line-height: 1.1;
+}
+
+h1 {
+  color: $color-blue;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}

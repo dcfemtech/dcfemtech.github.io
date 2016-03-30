@@ -1,7 +1,17 @@
 // Colors
-$teal: #8ed2d4;
-$blue: #294056;
-$gold: #fcb514;
-$pink: #ea304b;
+$color-body: #333;
 
-$main-width: 900px;
+$color-teal: #8ed2d4;
+$color-blue: #294056;
+$color-gold: #fcb514;
+$color-pink: #ea304b;
+
+// Layout
+$width-main: 900px;
+$width-large: 1200px;
+
+
+// Break
+$break-large: 900px;
+$break-medium: 600px;
+$break-small: 400px;

@@ -1,6 +1,14 @@
 .l {
+  &-wrapper-large,
   &-wrapper {
     margin: 0 auto;
-    max-width: $main-width;
+    max-width: $width-main;
+    padding: 16px;
+  }
+  &-wrapper-large {
+    max-width: $width-large;
+  }
+  &-content {
+    padding: 20px 0;
   }
 }

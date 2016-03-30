@@ -1,0 +1,36 @@
+.m-header {
+  background-color: $color-blue;
+  color: #fff;
+  font-size: .8em;
+  .l-wrapper-large {
+    display: flex;
+    justify-content: space-between;
+  }
+  a {
+    color: currentColor;
+    font-weight: 100;
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    &:hover {
+      color: $color-gold;
+    }
+  }
+  &__logo {
+    display: block;
+    flex-grow: 1;
+    flex-shrink: 0;
+    max-width: 150px;
+    .color2 path {
+      fill: #fff;
+    }
+  }
+
+  &__links {
+    display: inline-block;
+    align-self: center;
+    li {
+      display: inline-block;
+      padding: 5px 10px;
+    }
+  }
+}
