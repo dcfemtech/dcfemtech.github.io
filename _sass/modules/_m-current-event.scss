@@ -1,0 +1,28 @@
+  .m-current-event {
+
+    h1 {
+      color: $color-teal;
+      padding-top: .5em;
+    }
+    p {
+      padding: 0;
+    }
+    .date-location {}
+    .time {}
+    .event-button {
+      background: $color-teal;
+      color: $color-blue;
+      border-radius: 0;
+      padding: 1em 4em;
+      border: none;
+      border-bottom: solid 5px $color-blue;
+      margin-bottom: 2em;
+      width: 70%;
+
+      a {
+        color: $color-blue;
+        text-transform: uppercase;
+      }
+    }
+
+  }//.m-current-event 

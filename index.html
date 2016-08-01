@@ -3,9 +3,31 @@ layout: page
 ---
 
 {% include hero.html %}
-<section class="l-section">
+<section class="l-section clearfix">
   <div class="l-wrapper">
-    <h1>Empowering DC Women In Tech</h1>
+    <h1 class="main-headline">Empowering DC Women In Tech</h1>
     <p>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher who have a focus on technology have a primary focus in the mission statement about gender or women.</p>
   </div>
+
+  <div class="table-wrapper">
+  <div class="call-to-action-wrapper clearfix" width="100%">
+    <div class="current-event-wrapper clearfix">
+      {% include current-event.html %}
+    </div>
+
+    <div class="stay-updated-wrapper">
+      <form class="email-subscribe">
+        <label><h1>Stay Updated</h1></label>
+        <input type="email" name="email" placeholder="email address">
+        <button class="subscribe">Subscribe</button>
+      </form>
+    </div>
+  </div>
+  </div>
+
+  <div class="members-section-wrapper clearfix">
+    <div><h1 class="main-headline">Members</h1><div>
+    {% include members.html %}
+  </div>
+
 </section>
