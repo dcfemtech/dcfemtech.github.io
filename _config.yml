@@ -19,3 +19,7 @@ github_username:  dcfemtech
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+- members
