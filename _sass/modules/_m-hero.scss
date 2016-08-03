@@ -14,7 +14,7 @@
       @include circle(auto, 10px, 20px, auto, $color-gold);
     }
     span:nth-child(3) {
-      @include circle(-45px, -45px, auto, auto, $color-pink, 90px);
+      @include circle(0px, 130px, auto, auto, $color-pink, 90px);
     }
     span:nth-child(4) {
       @include circle(50px, 100px, auto, auto, #fff, 10px, full);

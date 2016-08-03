@@ -1,0 +1,28 @@
+// global form styling
+input[type="email"]{
+  border: none;
+  height: 3em;
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+button {
+  border-radius: 0;
+  padding: 1em 4em;
+  border: none;
+  margin-bottom: 2em;
+  width: 70%;
+}
+
+// Stay updated styling
+  .email-subscribe {
+    padding: 2em 0;
+   
+
+    .subscribe {
+      background: $color-blue;
+      color: $color-teal;
+    }
+  }

@@ -19,3 +19,12 @@ github_username:  dcfemtech
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+  members:
+    output: true
+    permalink: /members/:path/
+  events:
+    output: true
+    permalink: /events/:path/

@@ -47,3 +47,8 @@ h2 {
 h3 {
   font-size: 1.5em;
 }
+
+.main-headline {
+  border-bottom: solid 15px $color-teal;
+  line-height: .5;
+}
