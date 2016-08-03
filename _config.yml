@@ -22,4 +22,9 @@ markdown: kramdown
 
 # Collections
 collections:
-- members
+  members:
+    output: true
+    permalink: /members/:path/
+  events:
+    output: true
+    permalink: /events/:path/

@@ -1,6 +1,8 @@
+{% for event in site.events %}
 <div class="m-current-event">
-  <h1>{{ title }}asdfsadf</h1>
-  <p class="date-location">{{ date }}{{ location }}asdfsadf</p>
-  <p class="time">{{ time }}asdfasdf</p>
-  <button class="event-button"><a href="{{ reg-link }}">Register Here</a></button>
+  <h1>{{ event.title }}</h1>
+  <p class="date-location">{{ event.eventDate }} | {{ event.eventLocation }}</p>
+  <p class="time">{{ event.eventTime }}</p>
+  <button class="event-button"><a href="{{ event.eventLink }}">Register Here</a></button>
 </div>
+{% endfor %}
