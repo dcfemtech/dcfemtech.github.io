@@ -1,0 +1,8 @@
+.tweet-wrapper {
+  height: 500px;
+
+  @media (min-width: #{$break-medium}) {
+    width: 50%;
+    float: left;
+  }
+}
