@@ -50,5 +50,10 @@ h3 {
 
 .main-headline {
   border-bottom: solid 15px $color-teal;
-  line-height: .5;
+  margin-top: 1em;
+
+  @media (min-width: #{$break-large}) {
+    line-height: .5;
+  }
+
 }

@@ -1,5 +1,5 @@
 ---
-layout: events
+layout: page
 title:  "Tour de Code"
 date:   2016-03-25 18:50:53 -0400
 categories: events
