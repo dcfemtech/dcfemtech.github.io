@@ -1,8 +1,7 @@
-.tweet-wrapper {
-  height: 500px;
 
-  @media (min-width: #{$break-medium}) {
-    width: 50%;
-    float: left;
-  }
+button.job-button {
+  width: auto;
+  color: #fff;
+  background-color: $color-teal;
+  font-size: 18px;
 }
