@@ -24,7 +24,7 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
-ol, ul {
+ul {
   list-style: none;
 }
 blockquote, q {
@@ -37,4 +37,12 @@ q::before, q::after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+ol{
+  padding-left: 40px;
+  line-height: 1.5;
+  li {
+
+  }
 }
