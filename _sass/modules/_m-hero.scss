@@ -1,26 +1,26 @@
 .m-hero {
-  background: $color-blue;
+  background-image: url('/images/cover.jpg');
+  background-position: center center;
+  background-size: cover;
   padding: 80px 50px 100px;
   position: relative;
+  background-repeat: no-repeat;
+  &::before {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: $color-blue;
+    content: '';
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: .3;
+  }
   &__logo {
     margin: 0 auto;
     max-width: 800px;
-  }
-  &__circles {
-    span:nth-child(1) {
-      @include circle(145px, auto, auto, -25px, $color-gold);
-    }
-    span:nth-child(2) {
-      @include circle(auto, 10px, 20px, auto, $color-gold);
-    }
-    span:nth-child(3) {
-      @include circle(0px, 130px, auto, auto, $color-pink, 90px);
-    }
-    span:nth-child(4) {
-      @include circle(50px, 100px, auto, auto, #fff, 10px, full);
-    }
-    span:nth-child(5) {
-      @include circle(100px, auto, auto, 200px, #fff, 10px, full);
-    }
+    position: relative;
+    z-index: 1;
   }
 }

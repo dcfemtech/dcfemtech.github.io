@@ -4,13 +4,13 @@ body {
   border-top: 10px solid $color-teal;
   color: $color-body;
   font-family: 'Open Sans', Helvetica, san-serif;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 400;
   @media(max-width: $break-medium) {
     font-size: 16px;
   }
   @media(max-width: $break-small) {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 
@@ -41,12 +41,12 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.75em;
   font-weight: 600;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 .main-headline {
