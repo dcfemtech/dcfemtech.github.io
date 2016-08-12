@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,600,800,300italic);
+
 body {
   border-top: 10px solid $color-teal;
   color: $color-body;
@@ -49,11 +51,19 @@ h3 {
 }
 
 .main-headline {
-  border-bottom: solid 15px $color-teal;
-  margin-top: 1em;
-
-  @media (min-width: #{$break-large}) {
-    line-height: .5;
+  margin: 1em 0 .5em;
+  position: relative;
+  display: inline-block;
+  &:after {
+    content: '';
+    height: 20px;
+    position: absolute;
+    width: 100%;
+    background-color: $color-teal;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
   }
-
 }

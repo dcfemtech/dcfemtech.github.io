@@ -1,20 +1,18 @@
 .m-footer {
   background-color: $color-teal;
-  // bottom: 0px;
-  // position: absolute;
-  // width: 100%;
-
-  .social-media-list {
+  &__social {
     list-style: none;
     text-align: center;
-    .social-media-list-item {
+    &-item {
       display: inline-block;
-      text-align: center;
+    }
+  }
 
-      a {
-        color: $color-blue;
-        padding: 2em;
-      }//a 
-    }//.social-media-list-item 
-  }//.social-media-list
-}//.m-footer 
+  a {
+    color: $color-blue;
+    padding: 0 2em;
+    &:hover {
+      color: $color-pink;
+    }
+  }
+}
