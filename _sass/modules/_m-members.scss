@@ -5,6 +5,9 @@
   list-style: none;
   li {
     flex-basis: 30%;
+    &:hover {
+      opacity: .8;
+    }
   }
   a {
     display: block;

@@ -1,16 +1,15 @@
 .m-footer {
+  padding: 1em 0;
   background-color: $color-teal;
-  &__social {
-    list-style: none;
-    text-align: center;
-    &-item {
-      display: inline-block;
-    }
+  font-size: .9em;
+  text-align: center;
+  p {
+    margin: 0;
   }
-
   a {
     color: $color-blue;
-    padding: 0 2em;
+    font-weight: normal;
+    padding: 0 .3em;
     &:hover {
       color: $color-pink;
     }
