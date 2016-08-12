@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
-<div class="l-wrapper clearfix">
-  <h1><span class="main-headline">Current Events</span></h1>
+<section class="l-section">
+  <div class="l-wrapper">
+    <h1><span class="main-headline">Current Events</span></h1>
 
-  <div class="current-event-wrapper clearfix">
-
+    <div class="m-blocks">
 
     {% for event in site.events %}
-    <div class="m-current-event">
-      <h1>{{ event.title }}</h1>
-      <p class="date-location">{{ event.eventDate }} | {{ event.eventLocation }}</p>
-      <p class="time">{{ event.eventTime }}</p>
-      <button class="event-button"><a href="{{ event.eventLink }}">Register Here</a></button>
+    <div class="m-blocks__block">
+      <div class="m-blocks__wrapper">
+        <h1>{{ event.title }}</h1>
+        <p class="date-location">{{ event.eventDate }} | {{ event.eventLocation }}</p>
+        <p class="time">{{ event.eventTime }}</p>
+        <a class="button" href="{{ event.eventLink }}">Register Here</a>
+      </div>
     </div>
     {% endfor %}
 
   </div>
-</div>
+</section>

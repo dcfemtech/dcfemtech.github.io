@@ -11,9 +11,9 @@
   }
   a {
     color: currentColor;
-    font-weight: 100;
     letter-spacing: .03em;
     text-transform: uppercase;
+    text-decoration: none;
     &:hover {
       color: $color-gold;
     }

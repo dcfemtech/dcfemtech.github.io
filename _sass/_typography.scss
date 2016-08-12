@@ -16,13 +16,11 @@ body {
 
 p {
   line-height: 1.8;
-  margin: 10px 0;
+  margin: .5em 0;
 }
 
 a {
   color: $color-pink;
-  font-weight: 700;
-  text-decoration: none;
   -webkit-transition: color 100ms;
   &:hover {
     color: $color-gold;
@@ -32,7 +30,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
-  margin-bottom: 30px;
+  margin: .5em 0;
   line-height: 1.1;
 }
 
@@ -44,6 +42,7 @@ h1 {
 
 h2 {
   font-size: 2em;
+  font-weight: 600;
 }
 
 h3 {
