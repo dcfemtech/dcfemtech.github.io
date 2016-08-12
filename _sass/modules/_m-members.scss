@@ -5,7 +5,9 @@
   list-style: none;
   li {
     @include flex-basis(30%);
+    @include prefix(transition, opacity 100ms);
     &:hover {
+      @include prefix(transition, opacity 100ms);
       opacity: .8;
     }
   }

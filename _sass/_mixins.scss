@@ -27,6 +27,14 @@
   }
 }
 
+@mixin prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+  -ms-#{$name}: #{$argument};
+  -moz-#{$name}: #{$argument};
+  -o-#{$name}: #{$argument};
+  #{$name}: #{$argument};
+}
+
 // Flexbox Prefixes
 @mixin flexbox {
   display: -webkit-box;

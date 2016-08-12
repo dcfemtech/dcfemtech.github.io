@@ -20,11 +20,11 @@ p {
 }
 
 a {
+  @include prefix(transition, color 100ms);
   color: $color-pink;
-  -webkit-transition: color 100ms;
   &:hover {
+    @include prefix(transition, color 100ms);
     color: $color-gold;
-    -webkit-transition: color 100ms;
   }
 }
 
@@ -42,6 +42,7 @@ h1 {
 
 h2 {
   font-size: 2em;
+  font-weight: 600;
 }
 
 h3 {
