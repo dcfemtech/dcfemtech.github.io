@@ -9,17 +9,20 @@ layout: page
     <p>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
   </div>
 
-  <div class="m-blocks">
+  <div class="m-blocks m-blocks--index">
     <div class="m-blocks__block">
       <div class="m-blocks__wrapper">
-        {% include current-event.html %}
+        <h2>{{ site.events[0].title }}</h2>
+        <p class="date-location">{{ site.events[0].eventDate }} | {{ site.events[0].eventLocation }} | {{ site.events[0].eventTime }}</p>
+        <a class="button" href="{{ event.eventLink }}">Register Here</a>
       </div>
     </div>
 
     <div class="m-blocks__block">
       <div class="m-blocks__wrapper">
         <form class="email-subscribe">
-          <label><h1>Stay Updated</h1></label>
+          <label><h2>Stay Updated</h2></label>
+          <p>Stay up to date with all of the latest DCFT events by subscribing to our newsletter below.</p>
           <input type="email" name="email" placeholder="email address">
           <button class="subscribe">Subscribe</button>
         </form>
@@ -30,6 +33,12 @@ layout: page
   <div class="l-wrapper">
     <h1><span class="main-headline">Our Members</span></h1>
     {% include members.html %}
+  </div>
 
+  <div class="l-wrapper">
+  <h1><span class="main-headline">Latest Tweets</span></h1>
+  <div class="tweet-wrapper">
+    <a class="twitter-timeline" data-height="500" href="https://twitter.com/DCFemTech">Tweets by DCFemTech</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
   </div>
 </section>
