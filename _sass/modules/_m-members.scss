@@ -1,10 +1,10 @@
 .m-members {
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
+  @include flexbox;
+  @include align-items(center);
+  @include justify-content(space-between);
   list-style: none;
   li {
-    flex-basis: 30%;
+    @include flex-basis(30%);
     &:hover {
       opacity: .8;
     }
