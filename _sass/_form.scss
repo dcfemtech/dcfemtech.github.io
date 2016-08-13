@@ -5,7 +5,7 @@ input {
   font-family: $font-main;
   margin: 1em 0;
   padding: 1em;
-  width: 97.3%;
+  width: calc(100% - 2em);
 }
 
 form {
@@ -42,4 +42,8 @@ input[type="submit"],
     background-color: $color-teal;
     color: $color-blue;
   }
+}
+
+input[type="submit"] {
+  width: 100%;
 }

@@ -5,6 +5,12 @@
     margin-top: 1em;
   }
 
+  .button,
+  button,
+  input[type="submit"] {
+    width: 100%;
+  }
+
   h2 {
     color: $color-blue;
     font-weight: 800;
