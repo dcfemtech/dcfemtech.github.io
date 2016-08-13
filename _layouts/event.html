@@ -4,11 +4,10 @@ layout: default
 
 <section class="l-wrapper">
   <h1><span class="main-headline">{{ page.title }}</span></h1>
+  <img src="{{ page.image }}">
   <h3>{{ page.datePretty }} | {{ page.location }} | {{ page.time }}</h3>
   <p>{{ page.description }}</p>
-  {{ page.contact }}
-  {{ page.press }}
-  {{ page.twitter }}
+
   {% if page.registerLink %}<a class="button" href="{{ page.registerLink }}">Register Here</a> {% endif %}
   {{ content }}
 </section>

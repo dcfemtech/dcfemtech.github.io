@@ -1,11 +1,11 @@
 // global form styling
 input {
+  border: 1px solid $color-light-gray;
   display: block;
   font-family: $font-main;
+  margin: 1em 0;
   padding: 1em;
   width: 97.3%;
-  margin: 1em 0;
-  border: 1px solid $color-light-gray;
 }
 
 form {
@@ -21,24 +21,25 @@ button,
 input[type="submit"],
 .button {
   @include prefix(transition, background 200ms);
+  -webkit-appearance: none;
   background: $color-blue;
+  border: 0;
   border-radius: 0;
-  border: none;
   color: $color-teal;
   cursor: pointer;
-  display: block;
+  display: inline-block;
   font-size: .8em;
+  font-weight: 600;
   letter-spacing: 1px;
-  margin-bottom: 2em;
+  line-height: 1.2;
   margin: 0 auto;
   padding: 1em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  width: 100%;
   &:hover {
     @include prefix(transition, background 200ms);
-    color: $color-blue;
     background-color: $color-teal;
+    color: $color-blue;
   }
 }
