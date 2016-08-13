@@ -8,8 +8,13 @@ input {
   border: 1px solid $color-light-gray;
 }
 
+form {
+  text-align: left;
+}
+
 label {
   font-family: $font-main;
+  font-size: .8em;
 }
 
 button,

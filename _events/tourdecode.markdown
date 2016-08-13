@@ -7,7 +7,7 @@ datePretty: Month of October
 location: DC Metro Area
 time: Various Time
 registerLink:
-description: DCFemTech's Tour de Code is a collaboration with dozens of organizations (Women Who Code, Startup Weekend, Mission Launch and more) to help you advance your technical skills. Get ready for an October filled with workshops and events to help beginners learn how to code and design! Follow @DCFemTech for updates.
+description: DCFemTech's Tour de Code is a collaboration with dozens of organizations (Women Who Code, Startup Weekend, Mission Launch and more) to help you advance your technical skills. Get ready for an October filled with workshops and events to help beginners learn how to code and design!
 contact:
 press:
 twitter:
