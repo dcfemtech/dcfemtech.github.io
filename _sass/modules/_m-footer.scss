@@ -8,10 +8,9 @@
   }
   a {
     color: $color-blue;
-    font-weight: normal;
     padding: 0 .3em;
     &:hover {
-      color: $color-pink;
+      color: #fff;
     }
   }
 }

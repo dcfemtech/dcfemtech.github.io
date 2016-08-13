@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,600,800,300italic);
 
 body {
-  border-top: 10px solid $color-teal;
   color: $color-body;
   font-family: 'Open Sans', Helvetica, san-serif;
   font-size: 17px;
@@ -21,10 +20,12 @@ p {
 
 a {
   @include prefix(transition, color 100ms);
-  color: $color-pink;
+  color: $color-blue;
+  text-decoration: none;
+  font-weight: 600;
   &:hover {
     @include prefix(transition, color 100ms);
-    color: $color-gold;
+    color: $color-teal;
   }
 }
 
