@@ -1,11 +1,13 @@
 .m-members {
   @include flexbox;
   @include align-items(center);
-  @include justify-content(space-between);
+  @include justify-content(space-around);
+  @include flex-wrap(wrap);
   list-style: none;
   li {
     @include flex-basis(30%);
     @include prefix(transition, opacity 100ms);
+    margin: 1em 0;
     &:hover {
       @include prefix(transition, opacity 100ms);
       opacity: .8;
