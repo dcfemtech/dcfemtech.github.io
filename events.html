@@ -6,16 +6,19 @@ layout: default
     <h1><span class="main-headline">Upcoming Events</span></h1>
   </div>
 
-  <div class="m-blocks">
-    {% for event in site.events %}
-    <div class="m-blocks__block">
-      <div class="m-blocks__wrapper">
-        <h2>{{ event.title }}</h2>
-        <p class="date-location">{{ event.eventDate }} | {{ event.eventLocation }} | {{ event.eventTime }}</p>
-        <a class="button" href="{{ event.eventLink }}">Register Here</a>
+  <div class="l-wrapper-large">
+
+    <div class="m-blocks">
+      {% for event in site.events %}
+      <div class="m-blocks__block">
+        <div class="m-blocks__wrapper">
+          <h2>{{ event.title }}</h2>
+          <p class="date-location">{{ event.eventDate }} | {{ event.eventLocation }} | {{ event.eventTime }}</p>
+          <a class="button" href="{{ event.eventLink }}">Register Here</a>
+        </div>
       </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 
 </section>
