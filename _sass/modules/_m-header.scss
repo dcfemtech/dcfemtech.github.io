@@ -6,9 +6,11 @@
   position: relative;
   z-index: 1;
   .l-wrapper-large {
-    @include flexbox;
-    @include flex-wrap(wrap);
-    @include justify-content(space-between);
+    @media(min-width: $break-medium) {
+      @include flexbox;
+      @include flex-wrap(wrap);
+      @include justify-content(space-between);
+    }
     padding: 8px 16px;
   }
   a {

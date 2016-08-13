@@ -1,18 +1,8 @@
 .m-blocks {
+  text-align: center;
+
   &--index {
     margin-top: 1em;
-  }
-  @media(min-width: $break-medium) {
-    @include flexbox;
-    @include align-items(stretch);
-    @include justify-content(space-between);
-    text-align: center;
-
-    &__block {
-      @include align-items(center);
-      @include flex-basis(49%);
-      @include flexbox;
-    }
   }
 
   h2 {
@@ -29,11 +19,24 @@
     background-color: lighten($color-teal, 25%);
     border: 1px solid lighten($color-teal, 22%);
     margin-bottom: .5em;
+    padding: 1em 0 2em;
   }
 
   &__wrapper {
     margin: 0 auto;
     width: 80%;
+  }
+
+  @media(min-width: $break-medium) {
+    @include flexbox;
+    @include align-items(stretch);
+    @include justify-content(space-between);
+
+    &__block {
+      @include align-items(center);
+      @include flex-basis(49%);
+      @include flexbox;
+    }
   }
 
 }
