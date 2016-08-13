@@ -14,8 +14,8 @@ layout: default
       <div class="m-blocks__block">
         <div class="m-blocks__wrapper">
           <h2>{{ site.events[0].title }}</h2>
-          <p class="date-location">{{ site.events[0].eventDate }} | {{ site.events[0].eventLocation }} | {{ site.events[0].eventTime }}</p>
-          <a class="button" href="{{ event.eventLink }}">Learn More</a>
+          <p class="date-location">{{ site.events[0].datePretty }} | {{ site.events[0].location }} | {{ site.events[0].time }}</p>
+          <a class="button" href="{{ site.events[0].url }}">View event page</a>
         </div>
       </div>
 

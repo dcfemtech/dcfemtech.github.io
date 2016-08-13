@@ -66,3 +66,11 @@ h3 {
     z-index: -1;
   }
 }
+
+.visually-hidden {
+  display: inline-block;
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 0;
+}
