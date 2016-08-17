@@ -5,14 +5,40 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>DCFemTech</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  <meta name="description" content="DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.
 ">
 
   <link rel="stylesheet" href="css/main.css">
-  <link rel="canonical" href="dcfemtech.github.io/">
-  <link rel="alternate" type="application/rss+xml" title="DCFemTech" href="dcfemtech.github.io/feed.xml">
+  <link rel="canonical" href="http://www.allypalanzi.github.io/dcft-website/">
+  <link rel="icon" type="image/png" href="assets/fav.png">
+
+  
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+  <!-- slick jquery carousel  -->
+  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+  <script type="text/javascript" src="slick/slick.min.js"></script>
+        
+   <script type="text/javascript">
+    $(document).ready(function(){
+      console.log('ready');
+      $('.carousel-wrapper').slick({
+        dots: true,
+        infinite: true,
+        speed: 700,
+        autoplay:true,
+        autoplaySpeed: 2000,
+        arrows:false,
+        slidesToShow: 5
+      });
+    });
+  </script>
+  
+
 </head>
 
 
@@ -20,7 +46,7 @@
 
     <header class="m-header">
   <div class="l-wrapper-large">
-    <a href="/"class="m-header__logo">
+    <a href="index.html" class="m-header__logo">
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
    viewBox="0 0 744.3 218.9" enable-background="new 0 0 744.3 218.9" xml:space="preserve">
 <g class="color2">
@@ -143,12 +169,19 @@
 </g>
 </svg>
 
+      <span class="visually-hidden">DC Fem Tech</span>
     </a>
     <ul class="m-header__links">
+<<<<<<< HEAD
       <li><a href="/events">Events</a></li>
       <li><a href="/involve">Get Involved</a></li>
       <li><a href="/members">Members</a></li>
       <li><a href="/contact">Contact</a></li>
+=======
+      <li><a href="events.html">Events</a></li>
+      <li><a href="involve.html">Get Involved</a></li>
+      <li><a href="members.html">Members</a></li>
+>>>>>>> master
     </ul>
   </div>
 </header>
@@ -291,83 +324,175 @@
 </section>
 <section class="l-section clearfix">
   <div class="l-wrapper">
-    <h1 class="main-headline">Empowering DC Women In Tech</h1>
-    <p>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
+    <h1><span class="main-headline">Empowering DC Women In Tech</span></h1>
+    <p class="main-intro">DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
   </div>
 
-  <div class="table-wrapper">
-  <div class="call-to-action-wrapper clearfix" width="100%">
-    <div class="current-event-wrapper clearfix">
-      
-  
-  <div class="m-current-event">
-    <h1>Tour de Code</h1>
-    <p class="date-location">Month of October | DC Metro Area</p>
-    <p class="time">Various Time</p>
-    <button class="event-button"><a href="">Register Here</a></button>
-  </div>
-  
+  <div class="l-wrapper-large">
+    <div class="m-blocks m-blocks--index">
+      <div class="m-blocks__block">
+        <div class="m-blocks__wrapper">
+          <h2>Tour de Code</h2>
+          <p class="date-location">Month of October | DC Metro Area | Various Time</p>
+          <p class="m-blocks__description">DCFemTech's Tour de Code is a collaboration with dozens of organizations (Women Who Code, Startup Weekend, Mission Launch and more) to help you advance your technical skills. Get ready for an October filled with workshops and events to help beginners learn how to code and design!</p>
+          <a class="button" href="./tourdecode">View event page</a>
+        </div>
+      </div>
 
+      <div class="m-blocks__block">
+        <div class="m-blocks__wrapper">
+            <h2>Stay Updated</h2>
+            <p>Stay up to date with all of the latest DCFT events by subscribing to our newsletter below.</p>
+            <!-- Begin MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+            <form action="//github.us8.list-manage.com/subscribe/post?u=a4df4a28aa13fa969577b4aac&amp;id=93fdd8b8c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group">
+              <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+            </label>
+              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </div>
+            <div class="mc-field-group">
+              <label for="mce-FNAME">First Name </label>
+              <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+            </div>
+            <div class="mc-field-group">
+              <label for="mce-LNAME">Last Name </label>
+              <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+            </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_a4df4a28aa13fa969577b4aac_93fdd8b8c4" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </div>
+            </form>
+            </div>
+            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            <!--End mc_embed_signup-->
+        </div>
+      </div>
     </div>
-
-    <div class="stay-updated-wrapper">
-      <form class="email-subscribe">
-        <label><h1>Stay Updated</h1></label>
-        <input type="email" name="email" placeholder="email address">
-        <button class="subscribe">Subscribe</button>
-      </form>
-    </div>
-  </div>
   </div>
 
-  <div class="members-section-wrapper clearfix">
-    <div><h1 class="main-headline">Members</h1><div>
-    
-  
-<div class="members-wrapper">
+  <div class="l-wrapper">
+    <h1><span class="main-headline">Our Members</span></h1>
+    <ul class="m-members carousel-wrapper">
+
+
+<li class="m-members__member">
+  <a href="http://www.codeforprogress.org/">
+    <img alt ="Code for Progress" src="icons/codeforprogress.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://www.meetup.com/dc-pyladies/">
+    <img alt ="DC PyLadies" src="icons/pyladies.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
   <a href="http://dcwebwomen.org/">
-    <div class="logo">
-    <img src="icons/dcww.png">
-    </div>
-    <h2>DC Web Women</h2>
+    <img alt ="DC Web Women" src="icons/dcww.png">
   </a>
-</div>
+</li>
 
-  
-<div class="members-wrapper">
+
+<li class="m-members__member">
+  <a href="http://www.meetup.com/Girl-Develop-It-DC/">
+    <img alt ="Girl Develop It DC" src="icons/girldevelopit.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://www.guwomencoders.org/">
+    <img alt ="Georgetown Women Who Code" src="icons/gwwomewhocode.jpeg">
+  </a>
+</li>
+
+
+<li class="m-members__member">
   <a href="http://hearmecode.com/">
-    <div class="logo">
-    <img src="icons/hearmecode-square.png">
-    </div>
-    <h2>Hear Me Code</h2>
+    <img alt ="Hear Me Code" src="icons/hearmecode-square.png">
   </a>
-</div>
+</li>
 
-  
-<div class="members-wrapper">
-  <a href="https://www.womenwhocode.com/dc">
-    <div class="logo">
-    <img src="icons/wwc-square.jpg">
-    </div>
-    <h2>Women Who Code</h2>
+
+<li class="m-members__member">
+  <a href="http://lwc.tech/">
+    <img alt ="League of Women Coders" src="icons/leagueofwomencoders.png">
   </a>
-</div>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://lesbianswhotech.org/">
+    <img alt ="Lesbians Who Tech" src="icons/lesbianswhotech.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://www.ncwit.org/">
+    <img alt ="National Center for Women in Tech" src="icons/ncwit.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://railsgirls.com/dc">
+    <img alt ="Rails Girls DC" src="icons/railsgirls.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://techladyhackathon.org/">
+    <img alt ="Tech Lady Hackathon" src="icons/girldevelopit.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://www.meetup.com/WomenDataScientistsDC/">
+    <img alt ="Women Data Science DC" src="icons/womendatascience.jpeg">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="http://womenintechcampaign.com/">
+    <img alt ="Women In Tech Campaign" src="icons/womeintechcampaign.png">
+  </a>
+</li>
+
+
+<li class="m-members__member">
+  <a href="https://www.womenwhocode.com/dc">
+    <img alt ="Women Who Code" src="icons/wwc-square.jpg">
+  </a>
+</li>
 
 
   </div>
 
+  <div class="l-wrapper">
+  <h1><span class="main-headline">Latest Tweets</span></h1>
+   <a class="twitter-timeline" data-height="800" href="https://twitter.com/DCFemTech">Tweets by DCFemTech</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
 </section>
-
 
       </section>
 
     <footer class="m-footer">
   <div class="l-wrapper">
-    <ul class="social-media-list">
-      <li class="social-media-list-item"><a href="https://twitter.com/dcfemtech">Twitter</a></li>
-      <li class="social-media-list-item"><a href="https://github.com/dcfemtech">GitHub</a></li>
-      <li class="social-media-list-item"><a href="mailto:dcfemtech@gamil.com">Email Us</a></li>
-    </ul>
+    <p>&copy; 2016 DCFemTech. All rights reserved.</p>
+    <p><a href="https://twitter.com/dcfemtech">Twitter</a><a href="https://github.com/dcfemtech">GitHub</a><a href="mailto:dcfemtech@gamil.com">Email Us</a><a href="https://www.linkedin.com/groups?home=&gid=8140104">DC Tech Jobs</a></p>
   </div>
 </footer>
 

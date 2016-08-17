@@ -7,13 +7,11 @@
 
 # Site settings
 title: DCFemTech
-email: your-email@domain.com
+email: dcfemtech@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dcfemtech.github.io" # the base hostname & protocol for your site
+url: "http://www.allypalanzi.github.io/dcft-website" # the base hostname & protocol for your site
 twitter_username: dcfemtech
 github_username:  dcfemtech
 
@@ -24,7 +22,7 @@ markdown: kramdown
 collections:
   members:
     output: true
-    permalink: /members/:path/
+    permalink: /:path
   events:
     output: true
-    permalink: /events/:path/
+    permalink: /:path

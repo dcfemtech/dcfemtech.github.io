@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Women In Tech Campaign"
+date:   2016-03-25 18:50:53 -0400
+categories: member
+name: Women In Tech Campaign
+description: Exists to help expand the definition of what women in technology means in the 21st century. Features profiles of leaders & emerging leaders across industries.   
+logo: icons/womeintechcampaign.png
+link: http://womenintechcampaign.com/
+twitter: WITCampaign
+---

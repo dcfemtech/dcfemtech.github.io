@@ -1,11 +1,9 @@
+<ul class="m-members carousel-wrapper">
 {% for member in site.members %}
-  
-<div class="members-wrapper">
+
+<li class="m-members__member">
   <a href="{{ member.link }}">
-    <div class="logo">
-    <img src="{{ member.logo }}">
-    </div>
-    <h2>{{ member.name }}</h2>
+    <img alt ="{{ member.title }}" src="{{ member.logo }}">
   </a>
-</div>
+</li>
 {% endfor %}

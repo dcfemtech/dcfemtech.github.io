@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Tech Lady Hackathon"
+date:   2016-03-25 18:50:53 -0400
+categories: member
+name: Tech Lady Hackathon
+description: A day for women from experienced coders to total newbies to gather for civic hacking and training in a supportive environment.  
+logo: icons/girldevelopit.png
+link: http://techladyhackathon.org/
+twitter: 
+---
