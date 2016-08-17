@@ -5,7 +5,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ 'css/main.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/png" href="assets/fav.png">
 
@@ -14,7 +14,7 @@
   <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
   <!-- slick jquery carousel  -->
-  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+  <!-- <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
   <script type="text/javascript" src="slick/slick.min.js"></script>
@@ -32,7 +32,7 @@
         slidesToShow: 5
       });
     });
-  </script>
+  </script> -->
   
 
 </head>
