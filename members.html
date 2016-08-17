@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-
-<div class="members-section-wrapper l-section clearfix">
-<h1 class="title">DC FemTech Members</h1>
-<div>
+<div class="l-wrapper">
+  <h1><span class="main-headline">Our Members</span></h1>
+  <img src="assets/dcft-members.jpg">
   <p>Members are affiliated with organizations</p>
   <ol>
     <li>with women attendance that is 50% or higher</li>
@@ -12,21 +11,7 @@ layout: default
     <li>have a primary focus in the mission statement about gender or women.</li>
   </ol>
   <p>DCFemTech also shares a list of resources for the DCFemTech community for those seeking places to learn specific skills (development, design, networking, etc.)</p>
-</div>
 
-<div>
-{% for member in site.members %}
-  
-  <div class="members-wrapper">
-    <a href="{{ member.link }}">
-      <div class="logo">
-      <img src="{{ member.logo }}">
-      </div>
-      <h2>{{ member.name }}</h2>
-    </a>
-  </div>
-
-{% endfor %}
-</div>
+  {% include members.html %}
 
 </div>

@@ -1,28 +1,49 @@
 // global form styling
-input[type="email"]{
-  border: none;
-  height: 3em;
-  width: 70%;
+input {
+  border: 1px solid $color-light-gray;
   display: block;
-  margin: 0 auto;
-  margin-bottom: 2em;
+  font-family: $font-main;
+  margin: 1em 0;
+  padding: 1em;
+  width: calc(100% - 2em);
 }
 
-button {
+form {
+  text-align: left;
+}
+
+label {
+  font-family: $font-main;
+  font-size: .8em;
+}
+
+button,
+input[type="submit"],
+.button {
+  @include prefix(transition, background 200ms);
+  -webkit-appearance: none;
+  background: $color-blue;
+  border: 0;
   border-radius: 0;
-  padding: 1em 4em;
-  border: none;
-  margin-bottom: 2em;
-  width: 70%;
+  color: $color-teal;
+  cursor: pointer;
+  display: inline-block;
+  font-size: .8em;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  margin: 0 auto;
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  &:hover {
+    @include prefix(transition, background 200ms);
+    background-color: $color-teal;
+    color: $color-blue;
+  }
 }
 
-// Stay updated styling
-  .email-subscribe {
-    padding: 2em 0;
-   
-
-    .subscribe {
-      background: $color-blue;
-      color: $color-teal;
-    }
-  }
+input[type="submit"] {
+  width: 100%;
+}

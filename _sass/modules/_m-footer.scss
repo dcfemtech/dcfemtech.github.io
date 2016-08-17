@@ -1,20 +1,16 @@
 .m-footer {
+  padding: 1em 0;
   background-color: $color-teal;
-  // bottom: 0px;
-  // position: absolute;
-  // width: 100%;
-
-  .social-media-list {
-    list-style: none;
-    text-align: center;
-    .social-media-list-item {
-      display: inline-block;
-      text-align: center;
-
-      a {
-        color: $color-blue;
-        padding: 2em;
-      }//a 
-    }//.social-media-list-item 
-  }//.social-media-list
-}//.m-footer 
+  font-size: .9em;
+  text-align: center;
+  p {
+    margin: 0;
+  }
+  a {
+    color: $color-blue;
+    padding: 0 .3em;
+    &:hover {
+      color: #fff;
+    }
+  }
+}

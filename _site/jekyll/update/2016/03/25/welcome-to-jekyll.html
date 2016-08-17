@@ -5,13 +5,39 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>Welcome to Jekyll!</title>
   <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
 
   <link rel="stylesheet" href="css/main.css">
-  <link rel="canonical" href="dcfemtech.github.io/jekyll/update/2016/03/25/welcome-to-jekyll.html">
-  <link rel="alternate" type="application/rss+xml" title="DCFemTech" href="dcfemtech.github.io/feed.xml">
+  <link rel="canonical" href="http://www.allypalanzi.github.io/dcft-website/jekyll/update/2016/03/25/welcome-to-jekyll.html">
+  <link rel="icon" type="image/png" href="assets/fav.png">
+
+  
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+  <!-- slick jquery carousel  -->
+  <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+  <script type="text/javascript" src="slick/slick.min.js"></script>
+        
+   <script type="text/javascript">
+    $(document).ready(function(){
+      console.log('ready');
+      $('.carousel-wrapper').slick({
+        dots: true,
+        infinite: true,
+        speed: 700,
+        autoplay:true,
+        autoplaySpeed: 2000,
+        arrows:false,
+        slidesToShow: 5
+      });
+    });
+  </script>
+  
+
 </head>
 
 
@@ -19,7 +45,7 @@
 
     <header class="m-header">
   <div class="l-wrapper-large">
-    <a href="/"class="m-header__logo">
+    <a href="index.html" class="m-header__logo">
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
    viewBox="0 0 744.3 218.9" enable-background="new 0 0 744.3 218.9" xml:space="preserve">
 <g class="color2">
@@ -142,12 +168,12 @@
 </g>
 </svg>
 
+      <span class="visually-hidden">DC Fem Tech</span>
     </a>
     <ul class="m-header__links">
-      <li><a href="/events.html">Events</a></li>
-      <li><a href="/involve.html">Get Involved</a></li>
-      <li><a href="/members.html">Members</a></li>
-      <li><a href="/contact">Contact</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="involve.html">Get Involved</a></li>
+      <li><a href="members.html">Members</a></li>
     </ul>
   </div>
 </header>
@@ -184,11 +210,8 @@
 
     <footer class="m-footer">
   <div class="l-wrapper">
-    <ul class="social-media-list">
-      <li class="social-media-list-item"><a href="https://twitter.com/dcfemtech">Twitter</a></li>
-      <li class="social-media-list-item"><a href="https://github.com/dcfemtech">GitHub</a></li>
-      <li class="social-media-list-item"><a href="mailto:dcfemtech@gamil.com">Email Us</a></li>
-    </ul>
+    <p>&copy; 2016 DCFemTech. All rights reserved.</p>
+    <p><a href="https://twitter.com/dcfemtech">Twitter</a><a href="https://github.com/dcfemtech">GitHub</a><a href="mailto:dcfemtech@gamil.com">Email Us</a><a href="https://www.linkedin.com/groups?home=&gid=8140104">DC Tech Jobs</a></p>
   </div>
 </footer>
 

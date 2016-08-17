@@ -1,36 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,600,800,300italic);
+
 body {
-  border-top: 10px solid $color-teal;
   color: $color-body;
   font-family: 'Open Sans', Helvetica, san-serif;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 400;
   @media(max-width: $break-medium) {
     font-size: 16px;
   }
   @media(max-width: $break-small) {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 
 p {
   line-height: 1.8;
-  margin: 10px 0;
+  margin: .5em 0;
 }
 
 a {
-  color: $color-pink;
-  font-weight: 700;
+  @include prefix(transition, color 100ms);
+  color: $color-blue;
   text-decoration: none;
-  -webkit-transition: color 100ms;
+  font-weight: 600;
   &:hover {
-    color: $color-gold;
-    -webkit-transition: color 100ms;
+    @include prefix(transition, color 100ms);
+    color: $color-teal;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
-  margin-bottom: 30px;
+  margin: .5em 0;
   line-height: 1.1;
 }
 
@@ -41,19 +42,45 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.75em;
+  font-weight: 600;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.25em;
+}
+
+li {
+  line-height: 1.8;
+  list-style: initial;
+  list-style-position: inside;
+}
+
+.main-intro {
+  font-size: 1.25em;
 }
 
 .main-headline {
-  border-bottom: solid 15px $color-teal;
-  margin-top: 1em;
-
-  @media (min-width: #{$break-large}) {
-    line-height: .5;
+  position: relative;
+  display: inline-block;
+  &:after {
+    content: '';
+    height: 20px;
+    position: absolute;
+    width: 100%;
+    background-color: $color-teal;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
   }
+}
 
+.visually-hidden {
+  display: inline-block;
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 0;
 }
