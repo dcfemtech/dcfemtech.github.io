@@ -1,4 +1,4 @@
-# DCFem Tech Site (http://allypalanzi.github.io/dcft-website/index.html)
+# DCFem Tech Site (https://sirjessthebrave.github.io/dcft-website/)
 
 ## Development
 This site uses (http://jekyllrb.com/)[Jekyll] and hosts on Github pages.
