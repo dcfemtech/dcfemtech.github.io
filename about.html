@@ -13,6 +13,35 @@ layout: default
   <p>DCFemTech also shares a list of resources for the DCFemTech community for those seeking places to learn specific skills (development, design, networking, etc.)</p>
 
   <h1><span class="main-headline">Our Members</span></h1>
-  {% include members-long.html %}
+  {% for member in site.members %}
+    {% if member.categories.first != 'membersupport' %}
+      <div class="member-lg-wrapper clearfix">
+        <a href="{{ member.link }}">
+          <img alt ="{{ member.title }}" src="{{ member.logo }}" class="member-logo-lg">
+        </a>
+        <div class="member-info">
+          <h3>{{member.name}}</h3>
+          <p>{{ member.description }}</p>
+          <a href="{{member.link}}">Website</a>\\<a href="http://www.twitter.com/{{member.twitter}}">Twitter</a>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <h1><span class="main-headline">Supporting Members</span></h1>
+  {% for member in site.members %}
+    {% if member.categories.first == 'membersupport' %}
+      <div class="member-lg-wrapper clearfix">
+        <a href="{{ member.link }}">
+          <img alt ="{{ member.title }}" src="{{ member.logo }}" class="member-logo-lg">
+        </a>
+        <div class="member-info">
+          <h3>{{member.name}}</h3>
+          <p>{{ member.description }}</p>
+          <a href="{{member.link}}">Website</a>\\<a href="http://www.twitter.com/{{member.twitter}}">Twitter</a>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
 
 </div>
