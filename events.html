@@ -10,14 +10,42 @@ layout: default
 
     <div class="m-blocks">
       {% for event in site.events %}
-      <div class="m-blocks__block">
-        <div class="m-blocks__wrapper">
-          <h2>{{ event.title }}</h2>
-          <p class="m-blocks__date">{{ event.datePretty }} | {{ event.location }} | {{ event.time }}</p>
-          <p class="m-blocks__description">{{ event.description }}</p>
-          <a class="button" href=".{{ event.url | prepend: site.baseurl }}">View event page</a>
-        </div>
-      </div>
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture posttime %}{{event.eventDate | date: '%s'}}{% endcapture %}
+        {% if posttime > nowunix %}
+          <div class="m-blocks__block">
+            <div class="m-blocks__wrapper">
+              <h2>{{ event.title }}</h2>
+              <p class="m-blocks__date">{{ event.datePretty }} | {{ event.location }} | {{ event.time }}</p>
+              <p class="m-blocks__description">{{ event.description }}</p>
+              <a class="button" href=".{{ event.url | prepend: site.baseurl }}">View event page</a>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="l-wrapper">
+    <h1><span class="main-headline">Past Events</span></h1>
+  </div>
+
+  <div class="l-wrapper-large">
+
+    <div class="m-blocks">
+      {% for event in site.events reversed %}
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture posttime %}{{event.eventDate | date: '%s'}}{% endcapture %}
+        {% if posttime < nowunix %}
+          <div class="m-blocks__block">
+            <div class="m-blocks__wrapper">
+              <h2>{{ event.title }}</h2>
+              <p class="m-blocks__date">{{ event.datePretty }} | {{ event.location }} | {{ event.time }}</p>
+              <p class="m-blocks__description">{{ event.description }}</p>
+              <a class="button" href=".{{ event.url | prepend: site.baseurl }}">View event page</a>
+            </div>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>

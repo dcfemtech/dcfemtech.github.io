@@ -2,6 +2,7 @@
 layout: event
 title:  "DCFemTech Awards 2016"
 date:   2016-04-13
+eventDate:   2016-04-13
 categories: events
 datePretty: April 14, 2016
 location: Social Tables, 1325 G Street NW

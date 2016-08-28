@@ -1,7 +1,8 @@
 ---
 layout: event
 title:  "Tour de Code"
-date:   2016-03-25 18:50:53 -0400
+date:   2016-08-01
+eventDate:   2016-10-01
 categories: events
 datePretty: Month of October
 location: DC Metro Area
