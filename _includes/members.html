@@ -1,9 +1,10 @@
 <ul class="m-members">
 {% for member in site.members %}
-
-<li class="m-members__member">
-  <a href="{{ member.link }}">
-    <img alt ="{{ member.title }}" src="{{ member.logo }}">
-  </a>
-</li>
+  {% if member.categories.first == 'member' %}
+    <li class="m-members__member">
+      <a href="{{ member.link }}">
+        <img alt ="{{ member.title }}" src="{{ member.logo }}">
+      </a>
+    </li>
+  {% endif %}
 {% endfor %}
