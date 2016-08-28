@@ -63,8 +63,16 @@ layout: default
     {% include members.html %}
   </div>
 
-  <div class="l-wrapper">
+  <div class="l-wrapper l-center">
   <h1><span class="main-headline">Latest Tweets</span></h1>
-   <a class="twitter-timeline" data-height="800" href="https://twitter.com/DCFemTech">Tweets by DCFemTech</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="<%= twitter_url %>" class="twitter-timeline"
+      data-link-color="#8ed2d4"
+      data-chrome="noheader nofooter transparent"
+      data-screen-name="dcfemtech"
+      data-dnt="true"
+      data-widget-id="571030162490552320"
+      data-theme="light"
+      data-border-color="<%= @data[:border_color] %>">Tweets by DCFemTech</a>
+  <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
 </section>
