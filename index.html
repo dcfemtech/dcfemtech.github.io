@@ -14,10 +14,10 @@ layout: default
       <div class="m-blocks__block">
         <div class="m-blocks__wrapper">
           <h2>Upcoming Events</h2>
-          <h3>{{ site.events[0].title }}</h3>
-          <p class="date-location">{{ site.events[0].datePretty }} | {{ site.events[0].location }} | {{ site.events[0].time }}</p>
-          <p class="m-blocks__description">{{ site.events[0].description }}</p>
-          <a class="button" href=".{{ site.events[0].url | prepend: site.baseurl }}">View event page</a>
+          <h3>{{ site.events.last.title  }}</h3>
+          <p class="date-location">{{ site.events.last.datePretty }} | {{ site.events.last.location }} | {{ site.events.last.time }}</p>
+          <p class="m-blocks__description">{{ site.events.last.description }}</p>
+          <a class="button" href=".{{ site.events.last.url | prepend: site.baseurl }}">View event page</a>
         </div>
       </div>
 
