@@ -22,3 +22,22 @@
     width: 50%;
   }
 }
+
+// for member list on about page
+.member-lg-wrapper {
+    margin: 2em 0;
+    // border-bottom: solid 5px $color-teal;
+    padding: 1em 0;
+  .member-logo-lg {
+    width: 10%;
+    float: left;
+  }
+  h3 {
+    margin:0;
+  }
+  .member-info {
+    width: 80%;
+    float: left;
+    padding-left: 10%;
+  }
+}
