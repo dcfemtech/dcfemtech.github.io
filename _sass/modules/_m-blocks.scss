@@ -44,7 +44,6 @@
     @include justify-content(space-between);
 
     &__block {
-      @include align-items(center);
       @include flex-basis(49%);
       @include flexbox;
     }
