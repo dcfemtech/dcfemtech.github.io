@@ -41,11 +41,11 @@
   @media(min-width: $break-medium) {
     @include flexbox;
     @include align-items(stretch);
-    @include justify-content(space-between);
+    @include justify-content(space-around);
     @include flex-wrap(wrap);
 
     &__block {
-      @include flex-basis(49%);
+      @include flex-basis(48%);
       @include flexbox;
     }
   }
