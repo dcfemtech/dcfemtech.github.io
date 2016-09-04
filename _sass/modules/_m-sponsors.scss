@@ -4,6 +4,7 @@
     @include justify-content(space-between);
     @include align-items(center);
     @include flex-wrap(wrap);
+    padding: 20px 0;
   }
   li {
     flex-basis: 15%;
