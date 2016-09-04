@@ -1,0 +1,16 @@
+.m-sponsors {
+  ul {
+    @include flexbox;
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flex-wrap(wrap);
+  }
+  li {
+    flex-basis: 15%;
+    list-style: none;
+    min-width: 100px;
+  }
+  img {
+    width: 100%;
+  }
+}

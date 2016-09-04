@@ -47,8 +47,8 @@ Follow our progress that weekend at #HackforGoodDC!
 
 ## Huge thanks to our sponsors!
 
-[![](/assets/hackforgood/weddingwire.svg)](https://www.weddingwire.com/)
-[![](/assets/hackforgood/contactually.png)](http://www.contactually.com/)
-[![](/assets/hackforgood/mapbox.svg)](http://www.contactually.com/)
-[![](/assets/hackforgood/isl.svg)](http://www.contactually.com/)
-[![](/assets/hackforgood/voxproduct.svg)](http://www.contactually.com/)
+[![](/assets/sponsors/weddingwire.svg)](https://www.weddingwire.com/)
+[![](/assets/sponsors/contactually.png)](http://www.contactually.com/)
+[![](/assets/sponsors/mapbox.svg)](http://www.contactually.com/)
+[![](/assets/sponsors/isl.svg)](http://www.contactually.com/)
+[![](/assets/sponsors/voxproduct.svg)](http://www.contactually.com/)
