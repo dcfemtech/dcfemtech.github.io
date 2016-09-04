@@ -46,8 +46,15 @@ layout: default
         <div class="member-info">
           <h3>{{member.name}}</h3>
           <p>{{ member.description }}</p>
-          <a href="{{member.link}}">Website</a>\\<a href="http://www.twitter.com/{{member.twitter}}">Twitter</a>
-        </div>
+          {% if member.link %}
+            <a href="{{member.link}}">Website</a>
+          {% endif %}
+          {% if member.twitter %}
+            <a href="http://www.twitter.com/{{member.twitter}}">Twitter</a>
+          {% endif %}
+          {% if member.facebook %}
+            <a href="{{member.facebook}}">Facebook</a>
+          {% endif %}        </div>
       </div>
     {% endif %}
   {% endfor %}
