@@ -33,7 +33,7 @@ twitter:
 | 10/18 | [DC Tech Meetup](#) | 6:30 PM | MLK Library | DC Tech Meetup |
 | 10/18 | [WordPress Group](#) | 6:30 PM | TBD | WordPress Group |
 | 10/18 | [Android Lab](#)| 6:30 PM | TBD | Women Who Code |
-| 10/19 | [Women Mentoring Night](#)| 6:30 PM | Social Tables | The Mentor Method |
+| 10/19 | [Women Mentoring Night](https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-tickets-27507084430)| 6:30 PM | Social Tables | The Mentor Method |
 | 10/19 | [Ruby Lab](#) | 6:30 PM | TBD | Women Who Code |
 | 10/20 | [Women in Tech Campaign Inclusion](#) | 6:30 PM | TBD | Women in Tech Campaign |
 | 10/21 | [Tech Lady Hackathon Pre-Party](#) | 6:30 PM | TBD | Tech Lady Hackathon |
