@@ -26,3 +26,7 @@ collections:
   events:
     output: true
     permalink: /:path
+
+# Redirects
+gems:
+  - jekyll-redirect-from
