@@ -18,7 +18,7 @@ twitter:
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
 | 9/30 | [Tour de Code Kick Off Party](#) | 6:00 PM | MapBox | DCFemTech |
-| 9/30 to 10/1 | [Capital One FinTech Hackathon](#) | 6:00 PM | Capital One | Capital One |
+| 9/30 to 10/1 | [Banking with Humanity Hackathon](https://www.eventbrite.com/e/banking-with-humanity-hackathon-sponsored-by-capital-one-tickets-27303615850) | 6:00 PM | Capital One | Capital One |
 | 10/3 | [Front End Lab](#)| 6:30 PM | TBD | Women Who Code |
 | 10/4 | [Lesbians Who Tech](#)|TBD PM | TBD | Lesbians Who Tech |
 | 10/4 | [Android Lab](#)| 6:30 PM | TBD | Women Who Code |
