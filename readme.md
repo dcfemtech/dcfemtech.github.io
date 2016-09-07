@@ -1,4 +1,4 @@
-# [DCFemTech Website](http://dcfemtech.github.io/dcft-website/)
+# [DCFemTech Website](http://dcfemtech.github.io)
 
 ## Development
 This site uses [Jekyll](http://jekyllrb.com/) and hosts on Github pages.
