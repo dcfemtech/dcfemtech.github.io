@@ -33,7 +33,7 @@ twitter:
 | 10/12 | [Python Lab](https://www.meetup.com/Women-Who-Code-DC/events/227884037/) | 6:30 PM | TBD | Women Who Code |
 | 10/13 | [Tech Talk: Data Visualizations with WebGL](http://www.meetup.com/Women-Who-Code-DC/events/233373504/)| 6:30 PM | General Assembly | Women Who Code |
 | 10/17 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224770/)   | 6:30 PM | ECMC | Women Who Code |
-| 10/18 | [DC Tech Meetup](#) | 6:30 PM | MLK Library | DC Tech Meetup |
+| 10/18 | [DC Tech Meetup](https://www.meetup.com/DC-Tech-Meetup/events/233237009/) | 6:30 PM | MLK Library | DC Tech Meetup |
 | 10/18 | [WordPress Group](#) | 6:30 PM | TBD | WordPress Group |
 | 10/18 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbxb/)| 6:30 PM | TBD | Women Who Code |
 | 10/19 | [Women Mentoring Night](https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-tickets-27507084430)| 6:30 PM | Social Tables | The Mentor Method |
