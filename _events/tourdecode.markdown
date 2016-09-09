@@ -17,7 +17,7 @@ twitter:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
-| 9/30 | [Tour de Code Kick Off Party](#) | 6:00 PM | MapBox | DCFemTech |
+| 9/30 | [Tour de Code Kick Off Party](#) | 6:00 PM | Mapbox | DCFemTech |
 | 9/30 to 10/1 | [Banking with Humanity Hackathon](https://www.eventbrite.com/e/banking-with-humanity-hackathon-sponsored-by-capital-one-tickets-27303615850) | 6:00 PM | Capital One | Capital One |
 | 10/3 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/232450293/)| 6:30 PM | iStrategyLabs | Women Who Code |
 | 10/4 | [DC Women in Tech Showcase](https://www.eventbrite.com/e/lesbians-who-tech-and-friends-dc-women-in-tech-showcase-tickets-27375194945)| 6:00 PM | Republic Restoratives Distillery | Lesbians Who Tech |
@@ -26,7 +26,7 @@ twitter:
 | 10/5 | [Ruby on Rails: Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/228457105/)| 6:30 PM | TBD | Women Who Code |
 | 10/5 | [Python Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/226817465/)| 6:30 PM | TBD | Women Who Code |
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
-| 10/8 | [MapBox Workshop](#)| 6:30 PM | MapBox | MapBox |
+| 10/8 | [Mapbox Workshop](#)| 6:30 PM | Mapbox | Mapbox |
 | 10/10 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224765/)| 6:30 PM | Social Tables | Women Who Code |
 | 10/11 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/)| 6:30 PM | TBD | Women Who Code |
 | 10/12 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233734789/) | 6:30 PM | TBD | Women Who Code |
