@@ -46,3 +46,4 @@ twitter:
 | 10/24 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233475049/)   | 6:30 PM | TBD | Women Who Code |
 | 10/25 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbhc/)| 6:30 PM | TBD | Women Who Code |
 | 10/26 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/xvsfwlyvnbjc/) | 6:30 PM | TBD | Women Who Code |
+| 10/27 | [How to Contribute to Open Source Software and Projects](#) | 6:30 PM | TBD | General Assembly |
