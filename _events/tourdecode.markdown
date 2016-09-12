@@ -26,7 +26,7 @@ twitter:
 | 10/5 | [Ruby on Rails: Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/228457105/)| 6:30 PM | TBD | Women Who Code |
 | 10/5 | [Python Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/226817465/)| 6:30 PM | TBD | Women Who Code |
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
-| 10/8 | [Mapbox Workshop](https://mapboxchillzone.splashthat.com/)| 6:30 PM | Mapbox | Mapbox |
+| 10/8 | [Mapbox Workshop](https://miniconfmapbox.splashthat.com/)| 12:00 PM | Mapbox | Mapbox |
 | 10/10 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224765/)| 6:30 PM | Social Tables | Women Who Code |
 | 10/11 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/)| 6:30 PM | TBD | Women Who Code |
 | 10/12 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233734789/) | 6:30 PM | TBD | Women Who Code |
