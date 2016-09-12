@@ -36,7 +36,7 @@ twitter:
 | 10/18 | [DC Tech Meetup](https://www.meetup.com/DC-Tech-Meetup/events/233237009/) | 6:30 PM | MLK Library | DC Tech Meetup |
 | 10/18 | [WordPress Group](#) | 6:30 PM | TBD | WordPress Group |
 | 10/18 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbxb/)| 6:30 PM | TBD | Women Who Code |
-| 10/19 | [Women Mentoring Night](https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-tickets-27507084430)| 6:30 PM | Social Tables | The Mentor Method |
+| 10/19 | [Women Mentoring Night](https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-tickets-27507084430)| 6:00 PM | Social Tables | The Mentor Method |
 | 10/19 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233738441/) | 6:30 PM | TBD | Women Who Code |
 | 10/19 | [Python Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/226817460/) | 6:30 PM | TBD | Women Who Code |
 | 10/20 | [Women in Tech Campaign Inclusion](#) | 6:30 PM | TBD | Women in Tech Campaign |
