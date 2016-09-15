@@ -22,7 +22,7 @@ twitter:
 | 10/3 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/232450293/)| 6:30 PM | iStrategyLabs | Women Who Code |
 | 10/4 | [DC Women in Tech Showcase](https://www.eventbrite.com/e/lesbians-who-tech-and-friends-dc-women-in-tech-showcase-tickets-27375194945)| 6:00 PM | Republic Restoratives Distillery | Lesbians Who Tech |
 | 10/4 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbgb/)| 6:30 PM | TBD | Women Who Code |
-| 10/5 | [Digital Access Tour](https://byteback.org/event/digital-access-tour-11/)| 6:30 PM | TBD | Byte Back |
+| 10/5 | [Digital Access Tour](https://byteback.org/event/digital-access-tour-11/)| 6:30 PM | Byte Back 9th Street | Byte Back |
 | 10/5 | [Ruby on Rails: Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/228457105/)| 6:30 PM | TBD | Women Who Code |
 | 10/5 | [Python Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/226817465/)| 6:30 PM | TBD | Women Who Code |
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
