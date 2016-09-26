@@ -51,3 +51,4 @@ twitter:
 | 10/26 | [Design Matters: Live with Debbie Millman](http://www.dcdesignweek.org/events/design-matters.html) | 7:00 PM | The National Building Museum | AIGA Design Week |
 | 10/26 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/xvsfwlyvnbjc/) | 6:30 PM | TBD | Women Who Code |
 | 10/27 | [How to Contribute to Open Source Software and Projects](#) | 6:30 PM | General Assembly | General Assembly |
+| 10/28 | [What Comes Next Is the Future Film Screening](http://www.dcdesignweek.org/events/wcnif-film-screening.html) | 6:00 PM | Deloitte Digital | AIGA Design Week |
