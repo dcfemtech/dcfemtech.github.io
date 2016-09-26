@@ -19,7 +19,7 @@ twitter:
 |------|--------|---------|----------|--------------|
 | 9/30 | [Tour de Code Kick Off Party](https://dcfemtechparty2016.splashthat.com/) | 6:30 PM | Mapbox | DCFemTech |
 | 9/30 to 10/1 | [Banking with Humanity Hackathon](https://www.eventbrite.com/e/banking-with-humanity-hackathon-sponsored-by-capital-one-tickets-27303615850) | 6:00 PM | Capital One | Capital One |
-| 10/3 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/232450293/)| 6:30 PM | iStrategyLabs | Women Who Code |
+| 10/3 | [Front End Lab - First Timer's Night](https://www.meetup.com/Women-Who-Code-DC/events/232450293/)| 6:30 PM | iStrategyLabs | Women Who Code |
 | 10/4 | [DC Women in Tech Showcase](https://www.eventbrite.com/e/lesbians-who-tech-and-friends-dc-women-in-tech-showcase-tickets-27375194945)| 6:00 PM | Republic Restoratives Distillery | Lesbians Who Tech |
 | 10/4 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbgb/)| 6:30 PM | TBD | Women Who Code |
 | 10/5 | [Digital Access Tour](https://byteback.org/event/digital-access-tour-11/)| 6:30 PM | Byte Back 9th Street | Byte Back |
@@ -28,7 +28,6 @@ twitter:
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
 | 10/8 | [MiniConf @ Mapbox](https://miniconfmapbox.splashthat.com/)| 12:00 PM | Mapbox | Mapbox |
 | 10/8 | [Intro to Python Programming](http://womenscyberjutsu.org/events/EventDetails.aspx?id=864616&group=)| 12:00 - 5 PM | UMD | CyberJutsu |
-| 10/10 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224765/)| 6:30 PM | Social Tables | Women Who Code |
 | 10/11 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/)| 6:30 PM | ECMC | Women Who Code |
 | 10/12 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233734789/) | 6:30 PM | Living Social | Women Who Code |
 | 10/13 | [Tech Talk: Data Visualizations with WebGL](http://www.meetup.com/Women-Who-Code-DC/events/233373504/)| 6:30 PM | General Assembly | Women Who Code |
