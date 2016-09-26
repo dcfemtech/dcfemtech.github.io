@@ -27,6 +27,7 @@ twitter:
 | 10/5 | [Python Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/226817465/)| 6:30 PM | Fiscal Note | Women Who Code |
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
 | 10/8 | [MiniConf @ Mapbox](https://miniconfmapbox.splashthat.com/)| 12:00 PM | Mapbox | Mapbox |
+| 10/8 | [Intro to Python Programming](http://womenscyberjutsu.org/events/EventDetails.aspx?id=864616&group=)| 12:00 - 5 PM | UMD | CyberJutsu |
 | 10/10 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224765/)| 6:30 PM | Social Tables | Women Who Code |
 | 10/11 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/)| 6:30 PM | ECMC | Women Who Code |
 | 10/12 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233734789/) | 6:30 PM | Living Social | Women Who Code |
@@ -35,7 +36,7 @@ twitter:
 | 10/18 | [DC Tech Meetup](https://www.meetup.com/DC-Tech-Meetup/events/233237009/) | 6:30 PM | MLK Library | DC Tech Meetup |
 | 10/18 | [WordPress Group](#) | 6:30 PM | TBD | WordPress Group |
 | 10/18 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbxb/)| 6:30 PM | TBD | Women Who Code |
-| 10/19 | [Women Mentoring Night](https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-tickets-27507084430)| 6:00 PM | Social Tables | The Mentor Method |
+| 10/19 | [NYCDA DC Campus Launch Party](#) | 6:00 PM | 1133 15th St NW | NYCDA |
 | 10/19 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233738441/) | 6:30 PM | threespot | Women Who Code |
 | 10/19 | [Python Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/226817460/) | 6:30 PM | Blackstone Technology Group | Women Who Code |
 | 10/20 | [Women in Tech Campaign Inclusion](#) | 6:30 PM | TBD | Women in Tech Campaign |
@@ -44,6 +45,7 @@ twitter:
 | 10/22 | [Women in Computing Edit-a-Thon](#) | 9:30 AM | National Archives | National Archives |
 | 10/24 | [Dev&#124;Design: Harmony in the Digital Space](https://www.meetup.com/Women-Who-Code-DC/events/234005278/) | 6:30 PM | Chief | Women Who Code, AIGA, DCFemTech |
 | 10/24 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233475049/)   | 6:30 PM | Socrata | Women Who Code |
+| 10/25 | [NodeSchool DC](#)| 6:00 PM | Social Tables | NodeSchool |
 | 10/25 | [DC Startup Expo & Tech Job Fair](https://nvite.com/eb/26926184944)| 1:00 PM | Howard University Blackburn Ballroom | TechBreakfast |
 | 10/25 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbhc/)| 6:30 PM | TBD | Women Who Code |
 | 10/26 | [Design Matters: Live with Debbie Millman](http://www.dcdesignweek.org/events/design-matters.html) | 7:00 PM | The National Building Museum | AIGA Design Week |
