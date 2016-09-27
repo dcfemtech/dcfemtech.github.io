@@ -33,6 +33,7 @@ twitter:
 | 10/13 | [Tech Talk: Data Visualizations with WebGL](http://www.meetup.com/Women-Who-Code-DC/events/233373504/)| 6:30 PM | General Assembly | Women Who Code |
 | 10/17 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233224770/)   | 6:30 PM | ECMC | Women Who Code |
 | 10/18 | [WordPress Group](#) | 6:30 PM | TBD | WordPress Group |
+| 10/18 | [NoVa Edition: Cucumber and Front End Open Lab](http://www.meetup.com/Women-Who-Code-DC/events/234440876/?rv=ea1&_af=event&_af_eid=234440876&https=off) | 6:30 PM | Digital Globe | Women Who Code DC |
 | 10/18 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbxb/)| 6:30 PM | TBD | Women Who Code |
 | 10/19 | [NYCDA DC Campus Launch Party](#) | 6:00 PM | 1133 15th St NW | NYCDA |
 | 10/19 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233738441/) | 6:30 PM | threespot | Women Who Code |
