@@ -43,7 +43,6 @@ twitter:
 | 10/22 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:30 AM | iStrategyLabs | Tech Lady Hackathon |
 | 10/22 | [Women in Computing Edit-a-Thon](#) | 9:30 AM | National Archives | National Archives |
 | 10/24 | [Dev&#124;Design: Harmony in the Digital Space](https://www.meetup.com/Women-Who-Code-DC/events/234005278/) | 6:30 PM | Chief | Women Who Code, AIGA, DCFemTech |
-| 10/24 | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/233475049/)   | 6:30 PM | Socrata | Women Who Code |
 | 10/25 | [NodeSchool DC](#)| 6:00 PM | Social Tables | NodeSchool |
 | 10/25 | [DC Startup Expo & Tech Job Fair](https://nvite.com/eb/26926184944)| 1:00 PM | Howard University Blackburn Ballroom | TechBreakfast |
 | 10/25 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbhc/)| 6:30 PM | TBD | Women Who Code |
