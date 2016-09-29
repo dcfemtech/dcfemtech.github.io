@@ -41,7 +41,7 @@ twitter:
 | 10/20 | [Women in Tech Campaign Inclusion](#) | 6:30 PM | TBD | Women in Tech Campaign |
 | 10/21 | [Tech Lady Hackathon Pre-Party](http://techladyhackathon.org/) | 6:30 PM | TBD | Tech Lady Hackathon |
 | 10/22 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:30 AM | iStrategyLabs | Tech Lady Hackathon |
-| 10/22 | [Women in Computing Edit-a-Thon](#) | 9:30 AM | National Archives | National Archives |
+| 10/22 | [Women's Rights and Gender Equality Edit-a-thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/National_Archives_Gender_Equality_Edit-a-Thon) | 10:00 AM | National Archives | National Archives |
 | 10/24 | [Dev&#124;Design: Harmony in the Digital Space](https://www.meetup.com/Women-Who-Code-DC/events/234005278/) | 6:30 PM | Chief | Women Who Code, AIGA, DCFemTech |
 | 10/25 | [NodeSchool DC](#)| 6:00 PM | Social Tables | NodeSchool |
 | 10/25 | [DC Startup Expo & Tech Job Fair](https://nvite.com/eb/26926184944)| 1:00 PM | Howard University Blackburn Ballroom | TechBreakfast |
