@@ -27,7 +27,8 @@ twitter:
 | 10/5 | [Python Beginners Night!](https://www.meetup.com/Women-Who-Code-DC/events/226817465/)| 6:30 PM | Fiscal Note | Women Who Code |
 | 10/6 | [CODE: Debugging the Gender Gap Screening](https://www.meetup.com/Dev-Bootcamp-DC-Learn-To-Code/events/233919692/)| 6:00 PM | WeWork | dev bootcamp D.C. |
 | 10/8 | [MiniConf @ Mapbox](https://miniconfmapbox.splashthat.com/)| 12:00 PM | Mapbox | Mapbox |
-| 10/8 | [Intro to Python Programming](http://womenscyberjutsu.org/events/EventDetails.aspx?id=864616&group=)| 12:00 - 5 PM | UMD | CyberJutsu |
+| 10/8 | [Intro to Python Programming](http://womenscyberjutsu.org/events/EventDetails.aspx?id=864616&group=)| 11:00 - 3 PM | iSL | HearMeCode |
+| 10/8 | [Python Lesson 1](https://www.eventbrite.com/e/hear-me-code-lesson-1-saturday-october-8-tickets-26986152308)| 12:00 - 5 PM | UMD | CyberJutsu |
 | 10/11 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/)| 6:30 PM | ECMC | Women Who Code |
 | 10/12 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233734789/) | 6:30 PM | Living Social | Women Who Code |
 | 10/13 | [Tech Talk: Data Visualizations with WebGL](http://www.meetup.com/Women-Who-Code-DC/events/233373504/)| 6:30 PM | General Assembly | Women Who Code |
