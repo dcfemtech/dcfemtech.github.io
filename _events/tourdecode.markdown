@@ -42,7 +42,7 @@ twitter:
 | 10/19 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/233738441/) | 6:30 PM | threespot | Women Who Code |
 | 10/19 | [Python Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/226817460/) | 6:30 PM | Blackstone Technology Group | Women Who Code |
 | 10/20 | [Women in Tech Campaign Inclusion](#) | 6:30 PM | TBD | Women in Tech Campaign |
-| 10/21 | [Tech Lady Hackathon Pre-Party](http://techladyhackathon.org/) | 6:30 PM | TBD | Tech Lady Hackathon |
+| 10/21 | [Tech Lady Hackathon Pre-Party](http://techladyhackathon.org/) | 6:00 PM | Optoro | Tech Lady Hackathon |
 | 10/22 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:30 AM | iStrategyLabs | Tech Lady Hackathon |
 | 10/22 | [Women's Rights and Gender Equality Edit-a-thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/National_Archives_Gender_Equality_Edit-a-Thon) | 10:00 AM | National Archives | National Archives |
 | 10/24 | [Dev&#124;Design: Harmony in the Digital Space](https://www.meetup.com/Women-Who-Code-DC/events/234005278/) | 6:30 PM | Chief | Women Who Code, AIGA, DCFemTech |
