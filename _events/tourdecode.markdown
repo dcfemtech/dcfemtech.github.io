@@ -47,7 +47,7 @@ twitter:
 | 10/22 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:30 AM | iStrategyLabs | Tech Lady Hackathon |
 | 10/22 | [Women's Rights and Gender Equality Edit-a-thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/National_Archives_Gender_Equality_Edit-a-Thon) | 10:00 AM | National Archives | National Archives |
 | 10/24 | [Dev&#124;Design: Harmony in the Digital Space](https://www.meetup.com/Women-Who-Code-DC/events/234005278/) | 6:30 PM | Chief | Women Who Code, AIGA, DCFemTech |
-| 10/25 | [NodeSchool DC](#)| 6:00 PM | Social Tables | NodeSchool |
+| 10/25 | [NodeSchool DC](http://www.meetup.com/node-dc/events/234353028/?rv=ea1&_af=event&_af_eid=234353028&https=off)| 5:30 PM | Social Tables | NodeSchoolDC & NodeTogether|
 | 10/25 | [DC Startup Expo & Tech Job Fair](https://nvite.com/eb/26926184944)| 1:00 PM | Howard University Blackburn Ballroom | TechBreakfast |
 | 10/25 | [Android Lab](https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbhc/)| 6:30 PM | TBD | Women Who Code |
 | 10/26 | [Design Matters: Live with Debbie Millman](http://www.dcdesignweek.org/events/design-matters.html) | 7:00 PM | The National Building Museum | AIGA Design Week |
