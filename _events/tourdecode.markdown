@@ -54,3 +54,4 @@ twitter:
 | 10/26 | [Ruby Lab](https://www.meetup.com/Women-Who-Code-DC/events/xvsfwlyvnbjc/) | 6:30 PM | TBD | Women Who Code |
 | 10/27 | [How to Contribute to Open Source Software and Projects](http://www.meetup.com/Women-Who-Code-DC/events/234946374/?rv=ea1&_af=event&_af_eid=234946374&https=off) | 6:30 PM | Socrata | Women Who Code |
 | 10/28 | [What Comes Next Is the Future Film Screening](http://www.dcdesignweek.org/events/wcnif-film-screening.html) | 6:00 PM | Deloitte Digital | AIGA Design Week |
+| 10/29 | [Hello Web App Study Group](https://www.eventbrite.com/e/hear-me-code-hello-web-app-saturday-october-29-tickets-28824030451) | 11:00 AM - 3:00 PM | Nava | Hear Me Code |
