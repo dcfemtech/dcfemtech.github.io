@@ -11,14 +11,7 @@ registerLink: https://www.eventbrite.com/e/dcfemtech-inspire-2017-tickets-316171
 description: DCFemTech Inspire is back for its second year! Celebrate the success of women in the DC tech community. Join DCFemTech as we share and celebrate your accomplishments, large and small. Expect a good mix of networking, small activities, heavy hors d'oeuvres and a celebratory toast for a great year ahead. Share your success, celebrate others, and empower our community.
 contact:
 press:
-twitter: @dcfemtech
 ---
-
-DCFemTech Inspire is back for its second year! Celebrate the success of women in the DC tech community. 
-
-Join DCFemTech as we share and celebrate your accomplishments! 
-
-Expect a good mix of networking, small activities, heavy hors d'oeuvres and a celebratory toast for a great year ahead. Share your success, celebrate others, and empower our community!
 
 Can't make it? Follow our along at [#DCFTInspire!](https://twitter.com/search?q=%23dcftinspire&src=typd)
 

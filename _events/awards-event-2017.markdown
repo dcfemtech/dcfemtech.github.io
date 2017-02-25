@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "DCFemTech Awards 2017"
-date:   2017-02-13
+date:   2017-02-25
 eventDate:   2017-04-13
 categories: events
 datePretty: TBD
