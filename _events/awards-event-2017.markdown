@@ -8,7 +8,7 @@ datePretty: TBD
 location: TBD
 time: TBD
 registerLink:
-description: Join DCFemTech, and members of the DC business & tech communities as we celebrate Powerful Women Programmers and Powerful Women Designers at The 2016 DCFemTech Awards Reception.
+description: Join DCFemTech, and members of the DC business & tech communities as we celebrate Powerful Women Programmers, Designers and Data Scientists at The 2017 DCFemTech Awards Reception.
 contact:
 press:
 twitter:
