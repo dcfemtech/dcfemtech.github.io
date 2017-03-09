@@ -4,7 +4,7 @@ title:  "DCFemTech Awards 2017"
 date:   2017-02-25
 eventDate:   2017-04-13
 categories: events
-datePretty: TBD
+datePretty: Early May
 location: TBD
 time: TBD
 registerLink:
@@ -13,4 +13,5 @@ contact:
 press:
 twitter:
 image: assets/awards-2016.jpg
+link: /awards.html
 ---

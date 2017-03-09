@@ -17,7 +17,14 @@ layout: default
           <h3>{{ site.events.last.title  }}</h3>
           <p class="date-location">{{ site.events.last.datePretty }} | {{ site.events.last.location }} | {{ site.events.last.time }}</p>
           <p class="m-blocks__description">{{ site.events.last.description }}</p>
-          <a class="button" href=".{{ site.events.last.url | prepend: site.baseurl }}">View event page</a>
+          {% assign link = '' %}
+          {% if site.events.last.link != null %}
+            {% assign link = site.events.last.link | prepend: site.baseurl %}
+          {% else %}
+            {% assign link = site.events.last.url | prepend: site.baseurl %}
+          {% endif %}
+
+          <a class="button" href="{{ link }}">View event page</a>
         </div>
       </div>
 
