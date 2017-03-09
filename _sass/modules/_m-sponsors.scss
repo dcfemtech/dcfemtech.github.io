@@ -1,15 +1,18 @@
 .m-sponsors {
   ul {
     @include flexbox;
-    @include justify-content(space-between);
-    @include align-items(center);
     @include flex-wrap(wrap);
+    @include align-items(center);
     padding: 20px 0;
   }
   li {
     flex-basis: 15%;
     list-style: none;
-    min-width: 100px;
+    flex-grow: 0;
+    margin-right: 4%;
+    &:last-of-type {
+      margin-right: 0;
+    }
   }
   img {
     width: 100%;
