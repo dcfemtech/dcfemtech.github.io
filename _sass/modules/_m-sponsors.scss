@@ -3,13 +3,19 @@
     @include flexbox;
     @include flex-wrap(wrap);
     @include align-items(center);
+    @include justify-content(center);
     padding: 20px 0;
   }
   li {
-    flex-basis: 15%;
+    flex-basis: 20%;
     list-style: none;
     flex-grow: 0;
     margin-right: 4%;
+    img {
+      max-width: 150px;
+      margin-bottom: 10px;
+    }
+
     &:last-of-type {
       margin-right: 0;
     }
