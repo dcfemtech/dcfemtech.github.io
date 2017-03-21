@@ -18,7 +18,7 @@ Can't make it? Follow our along at [#DCFTInspire!](https://twitter.com/search?q=
 ## Huge thank you to our sponsors!
 
 [![](/assets/sponsors/nclud.png)](https://nclud.com/)
-[![](/assets/sponsors/capital-one.png)](https://www.capitalone.com/)
+[![](/assets/sponsors/capital-one.png)](https://www.capitalonecareers.com/)
 [![](/assets/sponsors/women-who-tech.png)](http://www.womenwhotech.com/)
 [![](/assets/sponsors/acm-dc.png)](http://local.acm.org/)
 [![](/assets/sponsors/amazon-web-services.png)](https://aws.amazon.com/)
