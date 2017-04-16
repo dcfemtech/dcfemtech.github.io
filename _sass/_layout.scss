@@ -3,7 +3,6 @@
   &-wrapper {
     margin: 0 auto;
     max-width: $width-main;
-    padding: 16px;
   }
   &-wrapper-large {
     max-width: $width-large;
@@ -13,6 +12,9 @@
   }
   &-center{
     text-align: center;
+  }
+  &-content {
+    padding: 16px;
   }
 }
 

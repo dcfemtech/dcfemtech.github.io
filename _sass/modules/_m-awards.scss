@@ -1,0 +1,19 @@
+.m-award-winners {
+  ul {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include align-items(center);
+    @include justify-content(center);
+  }
+  img {
+    width: 100%;
+  }
+  li {
+    @include flex-basis(15%);
+    padding: 1em 1em 0;
+    list-style: none;
+  }
+  h3 {
+    margin: 0;
+  }
+}
