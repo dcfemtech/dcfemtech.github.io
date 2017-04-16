@@ -2,7 +2,7 @@
 layout: event
 title:  "DCFemTech Awards 2017"
 date:   2017-02-25
-eventDate:   2017-04-13
+eventDate:   2017-05-18
 categories: events
 datePretty: May 18th, 2017
 location: The Washington Post, 1301 K St. NW, Washington DC 20071
