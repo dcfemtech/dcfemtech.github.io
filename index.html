@@ -40,18 +40,9 @@ layout: default
   <div class="l-wrapper">
     <h1><span class="main-headline"><a href="{{ "about.html#members" | prepend: site.baseurl }}">Our Members</a></span></h1>
     {% include members.html %}
-  </div>
-
-  <div class="l-wrapper l-center">
-  <h1><span class="main-headline">Latest Tweets</span></h1>
-    <a href="<%= twitter_url %>" class="twitter-timeline"
-      data-link-color="#8ed2d4"
-      data-chrome="noheader nofooter transparent"
-      data-screen-name="dcfemtech"
-      data-dnt="true"
-      data-widget-id="571030162490552320"
-      data-theme="light"
-      data-border-color="<%= @data[:border_color] %>">Tweets by DCFemTech</a>
-  <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <div class="m-members__callout">
+      <img src="assets/sponsors/acm-dc.png">
+      <p>DCFemTech’s 501c3 fiscal sponsor is DC ACM, a non-profit committed to encouraging the growth of the computer sciences & a subsidiary of the Association of Computing Machinery.</p>
+    </div>
   </div>
 </section>
