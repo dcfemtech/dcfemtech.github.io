@@ -3,11 +3,11 @@ layout: post
 ---
 <h1><span class="main-headline">Media Alert</span></h1>
 
+![](/assets/awards-2017/dcft-twitter-rsvp.png)
+
 ## DCFemTechrecognizes DC region’s outstanding women engineers, designers and data scientists
 
 ***3<sup>rd</sup> Annual Awards Celebration Scheduled for May 18th***
-
-![](/assets/awards-2017/dcft-twitter-rsvp.png)
 
 April 19, 2017 —Washington, DC — [DCFemTech](http://dcfemtech.github.io/), the coalition of women leaders aimed at lowering the barriers to entry for women in tech by
 amplifying the efforts of women in tech organizations, has recognized 48 women as recipients of their annual DCFemTech Awards. On May 18th, the organization and its members will host a reception at The Washington Post to celebrate the recipients and nominees.
