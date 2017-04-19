@@ -9,4 +9,13 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/png" href="assets/fav.png">
 
+  <!-- Twitter Card data -->
+<meta name="twitter:site" content="@dcfemtech">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta name="twitter:image" content="https://dcfemtech.github.io/{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+<meta property="og:image" content="https://dcfemtech.github.io/{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+
 </head>
