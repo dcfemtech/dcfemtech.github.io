@@ -90,7 +90,7 @@ We are pleased to announce that the award recipients are:
 
 - Hareem Mannan, Excella Consulting
 
-- Laura McGuigan, Atypical Notion + a stealth-mode startup
+- Laura McGuigan, Atypical Notion
 
 - Chloe Negron, Nclud
 
