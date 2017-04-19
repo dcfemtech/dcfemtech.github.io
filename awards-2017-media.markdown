@@ -30,7 +30,7 @@ We are pleased to announce that the award recipients are:
 
 - Megan DeLaunay, Capital One
 
-- Courtney Eimerman-Wallace, Digital Service at the VA (USDS)
+- Courtney Eimerman-Wallace, Color of Change
 
 - Rakia Finley, FIN Digital & Surge Assembly
 
