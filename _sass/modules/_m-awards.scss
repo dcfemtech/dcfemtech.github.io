@@ -2,7 +2,6 @@
   ul {
     @include flexbox;
     @include flex-wrap(wrap);
-    @include align-items(center);
     @include justify-content(center);
   }
   img {
@@ -12,8 +11,21 @@
     @include flex-basis(15%);
     padding: 1em 1em 0;
     list-style: none;
+    @media(max-width: $break-medium) {
+      @include flex-basis(20%);
+    }
+    p {
+      line-height: 1.2;
+      margin: .2em 0;
+      word-break: break-word;
+    }
   }
   h3 {
+    hyphens: auto;
     margin: 0;
+    word-break: break-word;
+    @media(max-width: $break-medium) {
+      font-size: 1em;
+    }
   }
 }
