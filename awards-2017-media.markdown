@@ -76,6 +76,8 @@ We are pleased to announce that the award recipients are:
 
 - Ashleigh Axios, Automattic
 
+- Liz Rose Chmela, Made by We
+
 - Jessica D'Amico, Just Jess & Peers Conference
 
 - Laura Ellena, Ad Hoc
@@ -99,8 +101,6 @@ We are pleased to announce that the award recipients are:
 - Alisha Ramos, Nava PBC
 
 - Alesha Randolph, Vox Media
-
-- Liz Rose Chmela, Made by We
 
 ## Data Science:
 
