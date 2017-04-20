@@ -8,11 +8,14 @@
     width: 100%;
   }
   li {
-    @include flex-basis(15%);
+    @include flex-basis(17%);
     padding: 1em 1em 0;
     list-style: none;
     @media(max-width: $break-medium) {
-      @include flex-basis(20%);
+      @include flex-basis(25%);
+    }
+    @media(max-width: $break-small) {
+      @include flex-basis(40%);
     }
     p {
       line-height: 1.2;
