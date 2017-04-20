@@ -40,7 +40,7 @@ We are pleased to announce that the award recipients are:
 
 - Anita Hall, The Washington Post
 
-- Lauren Jacobsen, General Assembly
+- Lauren Jacobson, General Assembly
 
 - Sana Javed, National Journal
 
