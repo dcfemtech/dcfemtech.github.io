@@ -4,6 +4,7 @@
   font-size: .9em;
   text-align: center;
   color: #fff;
+  position: relative;
   p {
     margin: 0;
   }
@@ -14,5 +15,12 @@
     &:hover {
       color: $color-teal;
     }
+  }
+  svg {
+    position: absolute;
+    top: 0;
+    bottom: 0px;
+    height: 100%;
+    left: 5%;
   }
 }

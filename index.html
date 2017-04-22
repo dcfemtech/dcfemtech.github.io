@@ -3,10 +3,12 @@ layout: default
 ---
 
 {% include hero.html %}
-<section class="l-section clearfix">
+<section class="l-section">
   <div class="l-wrapper">
-    <h1><span class="main-headline">The DC Women in Tech Collective</span></h1>
-    <p class="main-intro">DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
+    <div class="l-double">
+      <p class="main-intro">DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
+      <a class="button" href="/about">Read more about us</a>
+    </div>
   </div>
 
   <div class="l-wrapper-large">
@@ -30,7 +32,7 @@ layout: default
       <div class="m-blocks__block">
         <div class="m-blocks__wrapper">
             <h2>Stay Updated</h2>
-            <p>Stay up to date with all of the latest DCFT events by subscribing to our newsletter below.</p>
+            <p>Subscibte to our newsletter.</p>
             {% include newsletter.html %}
         </div>
       </div>
@@ -44,7 +46,11 @@ layout: default
 
   <div class="l-wrapper">
     <h1><span class="main-headline">Our Sponsors</span></h1>
-    <p class="main-intro">We wouldn't be able to do this without the support of generous sponsors! Sponsorships can include in-kind space donation, a charitable contribution of funds, or sponsorhips of our events. <a href="{{ "involve.html" | prepend: site.baseurl }}">Learn more about sponsoring us.</a></p>
+    <div class="l-double">
+      <p class="main-intro">We wouldn't be able to do this without the support of generous sponsors! Sponsorships can include in-kind space donation, a charitable contribution of funds, or sponsorhips of our events.
+      </p>
+      <a class="button" href="{{ "involve.html" | prepend: site.baseurl }}">Learn more</a>
+    </div>
     <div class="m-members__callout">
       <img src="assets/sponsors/acm-dc.png">
       <p>DCFemTech’s 501c3 fiscal sponsor is DC ACM, a non-profit committed to encouraging the growth of the computer sciences & a subsidiary of the Association of Computing Machinery.</p>

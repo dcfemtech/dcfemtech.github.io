@@ -1,11 +1,19 @@
 .l {
   &-wrapper-large,
-  &-wrapper {
+  &-wrapper,
+  &-wrapper-small {
     margin: 0 auto;
     max-width: $width-main;
+    padding: 2rem 1rem;
+    @media(max-width: $break-medium) {
+      padding: 1rem;
+    }
   }
   &-wrapper-large {
     max-width: $width-large;
+  }
+  &-wrapper-small {
+    max-width: $width-small;
   }
   &-section {
     margin: 0 auto;
@@ -13,11 +21,18 @@
   &-center{
     text-align: center;
   }
-  &-content {
-    padding: 16px;
-  }
-  &-full {
-    margin: -16px -16px 0;
+
+  &-double {
+    @media(min-width: $break-medium) {
+      @include flexbox;
+      @include align-items(center);
+      @include justify-content(space-between);
+      >:first-child {
+        flex-basis: 70%;
+        flex-grow: 0;
+        margin: 0;
+      }
+    }
   }
 }
 
