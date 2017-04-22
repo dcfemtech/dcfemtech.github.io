@@ -5,7 +5,7 @@ layout: default
 {% include hero.html %}
 <section class="l-section clearfix">
   <div class="l-wrapper">
-    <h1><span class="main-headline">Empowering DC Women In Tech</span></h1>
+    <h1><span class="main-headline">The DC Women in Tech Collective</span></h1>
     <p class="main-intro">DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders. <a href="/members">Members</a> are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women.</p>
   </div>
 
@@ -40,9 +40,18 @@ layout: default
   <div class="l-wrapper">
     <h1><span class="main-headline"><a href="{{ "about.html#members" | prepend: site.baseurl }}">Our Members</a></span></h1>
     {% include members.html %}
+  </div>
+
+  <div class="l-wrapper">
+    <h1><span class="main-headline">Our Sponsors</span></h1>
+    <p class="main-intro">We wouldn't be able to do this without the support of generous sponsors! Sponsorships can include in-kind space donation, a charitable contribution of funds, or sponsorhips of our events. <a href="{{ "involve.html" | prepend: site.baseurl }}">Learn more about sponsoring us.</a></p>
     <div class="m-members__callout">
       <img src="assets/sponsors/acm-dc.png">
       <p>DCFemTech’s 501c3 fiscal sponsor is DC ACM, a non-profit committed to encouraging the growth of the computer sciences & a subsidiary of the Association of Computing Machinery.</p>
     </div>
-  </div>
+    <div class="m-sponsors">
+      <ul>
+        <li><a href="https://aws.amazon.com/careers/"><img src="assets/sponsors/amazon.svg" alt="Amazon Web Services"></a></li>
+      </ul>
+    </div>
 </section>

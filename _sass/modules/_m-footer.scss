@@ -1,16 +1,18 @@
 .m-footer {
   padding: 1em 0;
-  background-color: $color-teal;
+  background-color: $color-blue;
   font-size: .9em;
   text-align: center;
+  color: #fff;
   p {
     margin: 0;
   }
   a {
-    color: $color-blue;
+    color: #fff;
     padding: 0 .3em;
+    border: 0;
     &:hover {
-      color: #fff;
+      color: $color-teal;
     }
   }
 }

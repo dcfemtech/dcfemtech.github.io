@@ -6,6 +6,11 @@ $color-body: #3b3b3b;
 
 $color-teal: #8ed2d4;
 $color-blue: #2A4056;
+$color-pink: #EB3450;
+$color-yellow: #FFB62C;
+
+$color-link: $color-pink;
+$color-link-hover: darken($color-link, 10%);
 
 $color-light-gray: #cacaca;
 
