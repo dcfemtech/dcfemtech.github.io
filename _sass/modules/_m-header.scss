@@ -28,10 +28,13 @@
     @include flex-shrink(0);
     display: block;
     margin: 0 auto;
-    max-width: 200px;
+    max-width: 150px;
+    @media(max-width: $break-medium) {
+      max-width: 200px;
+    }
     .home & {
       @media(min-width: $break-medium) {
-        display: none;
+        visibility: hidden;
       }
     }
   }
