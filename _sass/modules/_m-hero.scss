@@ -35,7 +35,15 @@
       font-size: 2em;
     }
   }
-  svg {
+  &__logo {
+    max-width: 400px;
+    margin-left: -130px;
+    margin-bottom: -30px;
+    @media(max-width: $break-medium) {
+      display: none;
+    }
+  }
+  &__stem {
     position: absolute;
     top: 0;
     bottom: 0px;

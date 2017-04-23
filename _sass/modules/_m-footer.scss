@@ -22,5 +22,8 @@
     bottom: 0px;
     height: 100%;
     left: 5%;
+    @media(max-width: $break-small) {
+      display: none;
+    }
   }
 }

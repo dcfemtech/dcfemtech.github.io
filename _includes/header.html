@@ -1,14 +1,14 @@
-<header class="m-header">
+<header class="m-header{% if page.url == '/' %} home {% endif %}">
   <div class="l-wrapper-large">
-    <a href="{{ "index.html" | prepend: site.baseurl }}" class="m-header__logo">
+    <a href="{{ "index" | prepend: site.baseurl }}" class="m-header__logo">
       {% include logo.html %}
       <span class="visually-hidden">DC Fem Tech</span>
     </a>
     <ul class="m-header__links">
-      <li><a href="{{ "events.html" | prepend: site.baseurl }}">Events</a></li>
-      <li><a href="{{ "involve.html" | prepend: site.baseurl }}">Get Involved</a></li>
-      <li><a href="{{ "awards.html" | prepend: site.baseurl }}">Awards</a></li>
-      <li><a href="{{ "about.html" | prepend: site.baseurl }}">About</a></li>
+      <li><a href="{{ "events" | prepend: site.baseurl }}">Events</a></li>
+      <li><a href="{{ "involve" | prepend: site.baseurl }}">Get Involved</a></li>
+      <li><a href="{{ "awards" | prepend: site.baseurl }}">Awards</a></li>
+      <li><a href="{{ "about" | prepend: site.baseurl }}">About</a></li>
     </ul>
   </div>
 </header>

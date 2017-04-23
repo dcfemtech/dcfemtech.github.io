@@ -24,12 +24,16 @@
     }
   }
   &__logo {
-    @include flex-basis(150px);
     @include flex-grow(1);
     @include flex-shrink(0);
     display: block;
     margin: 0 auto;
-    max-width: 150px;
+    max-width: 200px;
+    .home & {
+      @media(min-width: $break-medium) {
+        display: none;
+      }
+    }
   }
 
   &__links {
@@ -40,7 +44,7 @@
     font-weight: 600;
     li {
       display: inline-block;
-      padding: 5px 8px;
+      padding: 5px;
     }
     @media(max-width: $break-medium) {
       margin-top: 10px;
