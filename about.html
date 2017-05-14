@@ -4,14 +4,13 @@ layout: default
 <div class="l-wrapper">
   <h1><span class="main-headline">About Us</span></h1>
   <img src="assets/dcft-members.jpg">
-  <p>Members are affiliated with organizations</p>
+  <p>Members are affiliated with organizations:</p>
   <ol>
     <li>with women attendance that is 50% or higher</li>
     <li>who have a focus on technology</li>
     <li>have a primary focus in the mission statement about gender or women.</li>
   </ol>
-  <p>DCFemTech also shares a list of resources for the DCFemTech community for those seeking places to learn specific skills (development, design, networking, etc.)</p>
-
+  <p>For any questions on how to become a member please <a href="mailto:dcfemtech@gmail.com">email us!</a></p>
   <h1><span class="main-headline" id="members">Our Members</span></h1>
   {% for member in site.members %}
     {% if member.categories.first != 'membersupport' %}
