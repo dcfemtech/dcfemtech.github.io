@@ -12,6 +12,8 @@ description: DCFemTech's Tour de Code is a collaboration with dozens of organiza
 contact:
 press:
 twitter:
+redirect_from:
+  - /tourdecode
 ---
 
 
