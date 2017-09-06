@@ -19,7 +19,8 @@ redirect_from:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
-| 10/3 | [Tour de Code Kickoff Party]() | 6:00 PM | Crowdskout | DC FemTech |
+| 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DC FemTech |
+| 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
 | 10/9 | [Learn to Give Tech Talks Part 1]() | 6:00 PM | The Washington Post | DC ACM |
 | 10/9 | [Tech Talk: Language of Languages]() | 6:00 PM | The Washington Post | DC ACM |
