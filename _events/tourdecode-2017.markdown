@@ -19,17 +19,19 @@ redirect_from:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
+| 10/2 | [AWS Shorts](https://www.meetup.com/Women-Who-Code-DC/events/243174051/) | 6:30PM | Blackstone Technology Group | WWC DC |
 | 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DC FemTech |
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
-| 10/9 | [Learn to Give Tech Talks Part 1]() | 6:00 PM | The Washington Post | DC ACM |
+| 10/9 | [Learn to Give Tech Talks Part 1](https://www.meetup.com/ACM-DC/events/242933808/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/9 | [Tech Talk: Language of Languages]() | 6:00 PM | The Washington Post | DC ACM |
-| 10/16 | [Learn to Give Tech Talks Part 2]() | 6:00 PM | The Washington Post | DC ACM |
-| 10/17 | [Intro to Git and Github]() | 6:30 PM | TBD | Women Who Code DC |
+| 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
+| 10/17 | [Intro to Git and Github]() | 6:30 PM | TBD | WWC DC |
 | 10/18 | [Getting Started with Open Source Contributions]() | 6:30 PM | Crowdskout |
-| 10/19 | [Intro to Git and Github]() | 6:30 PM | TBD | Women Who Code DC |
+| 10/19 | [Intro to Git and Github]() | 6:30 PM | TBD | WWC DC |
 | 10/20-28 | [DC Design Week](http://www.dcdesignweek.org/) | various | various | AIGA DC
-| 10/20 | [Tech Lady Hackathon Pre-Party/Info Session]() | 6:00 PM | iStrategyLabs | Tech Lady Hackathon
-| 10/21 | [Tech Lady Hackathon]() | 9:00 AM | The Washington Post | Tech Lady Hackathon
-| 10/23 | [Learn to Give Tech Talks Part 3]() | 6:00 PM | The Washington Post | DC ACM |
-| 10/29 | [Costume Brunch]() | 11:00 AM | TBD | Women Who Code DC | 
+| 10/20 | [Tech Lady Hackathon Pre-Party/Info Session](http://techladyhackathon.org/) | 6:00 PM | iStrategyLabs | Tech Lady Hackathon
+| 10/21 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:00 AM | The Washington Post | Tech Lady Hackathon
+| 10/23 | [Learn to Give Tech Talks Part 3](https://www.meetup.com/ACM-DC/events/242954265/) | 6:00 PM | The Washington Post | DC ACM |
+| 10/26 | [Lambda Ladies](https://www.meetup.com/Women-Who-Code-DC/events/242932833/) | 6:30 PM | Blackstone Technology Group | WWC DC |
+| 10/29 | [Costume Brunch]() | 11:00 AM | TBD | WWC DC |
