@@ -19,6 +19,7 @@ redirect_from:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
+| 10/1 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
 | 10/2 | [AWS Shorts](https://www.meetup.com/Women-Who-Code-DC/events/243174051/) | 6:30PM | Blackstone Technology Group | WWC DC |
 | 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DC FemTech |
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
@@ -26,6 +27,7 @@ redirect_from:
 | 10/9 | [Learn to Give Tech Talks Part 1](https://www.meetup.com/ACM-DC/events/242933808/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/9 | [Tech Talk: Language of Languages]() | 6:00 PM | The Washington Post | DC ACM |
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
+| 10/16 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
 | 10/17 | [Intro to Git and Github]() | 6:30 PM | TBD | WWC DC |
 | 10/18 | [Getting Started with Open Source Software Contributions](http://go.crowdskout.com/dcfemtech-tour-de-code-session-getting-started-with-open-source-software-contributions) | 6:30 PM | Crowdskout |
 | 10/19 | [Intro to Git and Github]() | 6:30 PM | TBD | WWC DC |
@@ -35,3 +37,4 @@ redirect_from:
 | 10/23 | [Learn to Give Tech Talks Part 3](https://www.meetup.com/ACM-DC/events/242954265/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/26 | [Lambda Ladies](https://www.meetup.com/Women-Who-Code-DC/events/242932833/) | 6:30 PM | Blackstone Technology Group | WWC DC |
 | 10/29 | [Costume Brunch]() | 11:00 AM | TBD | WWC DC |
+| 10/30 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
