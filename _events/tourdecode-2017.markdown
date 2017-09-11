@@ -21,7 +21,7 @@ redirect_from:
 |------|--------|---------|----------|--------------|
 | 10/1 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
 | 10/2 | [AWS Shorts](https://www.meetup.com/Women-Who-Code-DC/events/243174051/) | 6:30PM | Blackstone Technology Group | WWC DC |
-| 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DC FemTech |
+| 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DCFemTech |
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
 | 10/9 | [Learn to Give Tech Talks Part 1](https://www.meetup.com/ACM-DC/events/242933808/) | 6:00 PM | The Washington Post | DC ACM |
