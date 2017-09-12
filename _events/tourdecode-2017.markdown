@@ -37,4 +37,4 @@ redirect_from:
 | 10/23 | [Learn to Give Tech Talks Part 3](https://www.meetup.com/ACM-DC/events/242954265/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/26 | [Lambda Ladies](https://www.meetup.com/Women-Who-Code-DC/events/242932833/) | 6:30 PM | Blackstone Technology Group | WWC DC |
 | 10/29 | [Costume Brunch]() | 11:00 AM | TBD | WWC DC |
-| 10/30 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
+| 10/30 | [Algorithms Meetup]() | 6:30 PM | 1776 | WWC DC |
