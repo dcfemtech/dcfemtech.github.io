@@ -26,7 +26,6 @@ redirect_from:
 | 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DCFemTech |
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
 | 10/5 | [Women Who Tech at NOVA]() | 5:00 PM | Northern Virginia Community College (Alexandria Campus) |
-| 10/5 | [R Community Fall Networking Social](https://www.meetup.com/rladies-dc/events/243340108/) | 6:00 PM | WeWork K Street | R-Ladies DC
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
 | 10/9 | [Learn to Give Tech Talks Part 1](https://www.meetup.com/ACM-DC/events/242933808/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/10 | ["Throu­gh the Language Glass"­ Talk with Chris Nguyen](https://www.meetup.com/ACM-DC/events/242954315/) | 6:00 PM | The Washington Post | DC ACM |
