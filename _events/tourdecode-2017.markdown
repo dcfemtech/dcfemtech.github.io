@@ -21,11 +21,11 @@ redirect_from:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
-| 10/1 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
+| 10/1 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
 | 10/2 | [AWS Shorts](https://www.meetup.com/Women-Who-Code-DC/events/243174051/) | 6:30PM | Blackstone Technology Group | WWC DC |
 | 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DCFemTech |
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
-| 10/4 | [Ruby on Rails Beginner's Night](https://www.meetup.com/Women-Who-Code-DC/events/243473675/) | 6:30 PM | TBD | WWC DC |
+| 10/4 | [Ruby on Rails Beginner's Night](https://www.meetup.com/Women-Who-Code-DC/events/243473675/) | 6:30 PM | Opportunity@Work | WWC DC |
 | 10/4 | [Python Beginner's Night](https://www.meetup.com/Women-Who-Code-DC/events/243300343/) | 6:30 PM | Fiscal Note | WWC DC |
 | 10/5 | [Women Who Tech at NOVA]() | 5:00 PM | Northern Virginia Community College (Alexandria Campus) |
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
@@ -35,7 +35,7 @@ redirect_from:
 | 10/11 | [Python Lecture: Beginner #2](http://guwecode.georgetown.domains/event/python-lecture-beginner-2/) | 6:00 PM | TBD | Georgetown University Women Coders |
 | 10/13 | [Student Internships in Tech Panel](http://guwecode.georgetown.domains/event/student-internships-in-tech-panel/) | 2:00 PM | TBD | Georgetown University Women Coders |
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
-| 10/16 | [Algorithms Meetup]() | 6:30 PM | TBD | WWC DC |
+| 10/16 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
 | 10/18 | [Getting Started with Open Source Software Contributions](http://go.crowdskout.com/dcfemtech-tour-de-code-session-getting-started-with-open-source-software-contributions) | 6:30 PM | Crowdskout |
 | 10/19 | [Intro to Git and Github]() | 6:00 PM | Bloomberg | WWC DC |
 | 10/20-28 | [DC Design Week](http://www.dcdesignweek.org/) | various | various | AIGA DC
