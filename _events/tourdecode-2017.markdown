@@ -37,6 +37,7 @@ redirect_from:
 | 10/13 | [Student Internships in Tech Panel](http://guwecode.georgetown.domains/event/student-internships-in-tech-panel/) | 2:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/16 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
+| 10/17 | [Tour De Code 2017 - NodeSchoolDC](https://www.meetup.com/preview/node-dc/events/243586589) | 6:30 PM | Social Tables |
 | 10/18 | [Getting Started with Open Source Software Contributions](http://go.crowdskout.com/dcfemtech-tour-de-code-session-getting-started-with-open-source-software-contributions) | 6:30 PM | Crowdskout |
 | 10/18 | [Docker + Rails]() | 6:30 PM | TBD | WWC DC | 
 | 10/19 | [Intro to Git and Github]() | 6:00 PM | Bloomberg | WWC DC |
