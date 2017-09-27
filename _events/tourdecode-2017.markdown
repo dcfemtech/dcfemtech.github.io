@@ -29,6 +29,7 @@ redirect_from:
 | 10/3 | [Interviewing for your first tech job](https://www.meetup.com/United-Silver-Spring-Ruby/events/240639085/) | 7:30 PM | Vistaprint Digital | Silver Spring Ruby |
 | 10/4 | [Ruby on Rails Beginner's Night](https://www.meetup.com/Women-Who-Code-DC/events/243473675/) | 6:30 PM | Opportunity@Work | WWC DC |
 | 10/4 | [Python Beginner's Night](https://www.meetup.com/Women-Who-Code-DC/events/243300343/) | 6:30 PM | Fiscal Note | WWC DC |
+| 10/4 | [Research and Render Workshop: The Merging of Two Design Worlds](https://www.eventbrite.com/e/research-and-render-workshop-the-merging-of-two-design-worlds-tickets-37887005052) | 6:00 PM | Canvas | Ladies Wine Design DC & Ladies that UX DC
 | 10/5 | [Women Who Tech at NOVA]() | 5:00 PM | Northern Virginia Community College (Alexandria Campus) |
 | 10/7 | [Hear Me Code: Lessons 1, 2, & 3](https://hearmecode.com/) | 11:00 AM | iStrategyLabs | Hear Me Code |
 | 10/8-10/10 | [2017 ADVANCE/GSE Program Workshop Broadening Participation: Intersectionality](https://awis.site-ym.com/events/EventDetails.aspx?id=929860) | various | Marriott Wardman Park |
