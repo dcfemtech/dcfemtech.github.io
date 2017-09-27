@@ -21,7 +21,8 @@ redirect_from:
 
 | Date |  Event | Time    | Location | Organization |
 |------|--------|---------|----------|--------------|
-| 10/1 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
+| 10/2 | [Front End Lab - First Timer's Night](https://www.meetup.com/Women-Who-Code-DC/events/243680657/) | 6:30 PM | iStrategyLabs | WWC DC |
+| 10/2 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
 | 10/2 | [AWS Shorts](https://www.meetup.com/Women-Who-Code-DC/events/243174051/) | 6:30PM | Blackstone Technology Group | WWC DC |
 | 10/2 | [Careers in Tech Panel]() | 12:00 PM | GWU Science and Engineering Hall B1220 | ABI.DC & GWU ACM & GWU WiCS 
 | 10/3 | [Tour de Code Kickoff Party](https://tourdecodekickoff2017.splashthat.com/) | 6:00 PM | Crowdskout | DCFemTech |
