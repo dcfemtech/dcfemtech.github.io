@@ -41,7 +41,6 @@ redirect_from:
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/16 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
 | 10/17 | [Tour De Code 2017 - NodeSchoolDC](https://www.meetup.com/preview/node-dc/events/243586589) | 6:30 PM | Social Tables |
-| 10/18 | [Getting Started with Open Source Software Contributions](http://go.crowdskout.com/dcfemtech-tour-de-code-session-getting-started-with-open-source-software-contributions) | 6:30 PM | Crowdskout |
 | 10/18 | [Docker + Rails](https://www.meetup.com/Women-Who-Code-DC/events/243597195/) | 6:30 PM | Arcadia Power | WWC DC | 
 | 10/19 | [Intro to Git and Github]() | 6:00 PM | Bloomberg | WWC DC |
 | 10/20-28 | [DC Design Week](http://www.dcdesignweek.org/) | various | various | AIGA DC
