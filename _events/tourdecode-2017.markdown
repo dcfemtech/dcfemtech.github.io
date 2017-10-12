@@ -37,12 +37,12 @@ redirect_from:
 | 10/11 | [Ruby on Rails: Using Gravitar](https://www.meetup.com/Women-Who-Code-DC/events/243597140/) | 6:30 PM | Arcadia Power | WWC DC | 
 | 10/11 | [Python Lecture: Beginner #2](http://guwecode.georgetown.domains/event/python-lecture-beginner-2/) | 6:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
 | 10/12 | [Google Digital Tools: Adwords 101]() | 6:30 PM | TBD |
-| 10/13 | [Student Internships in Tech Panel](http://guwecode.georgetown.domains/event/student-internships-in-tech-panel/) | 2:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
+| 10/13 | [Student Internships in Tech Panel](http://guwecode.georgetown.domains/event/student-internships-in-tech-panel/) | 2:00 PM | Leavey Program Room (at Georgetown University) | Georgetown University Women Coders |
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
-| 10/16 | [Algorithms Meetup]() | 6:30 PM | Contactually | WWC DC |
+| 10/16 | [Algorithms Meetup](https://www.meetup.com/Women-Who-Code-DC/events/243752004/) | 6:30 PM | Contactually | WWC DC |
 | 10/17 | [Tour De Code 2017 - NodeSchoolDC](https://www.meetup.com/preview/node-dc/events/243586589) | 6:30 PM | Social Tables |
 | 10/18 | [Docker + Rails](https://www.meetup.com/Women-Who-Code-DC/events/243597195/) | 6:30 PM | Arcadia Power | WWC DC | 
-| 10/19 | [Intro to Git and Github]() | 6:00 PM | Bloomberg | WWC DC |
+| 10/19 | [Intro to Git and Github](https://www.meetup.com/Women-Who-Code-DC/events/243781293/) | 6:00 PM | Bloomberg | WWC DC |
 | 10/20-28 | [DC Design Week](http://www.dcdesignweek.org/) | various | various | AIGA DC
 | 10/20 | [Tech Lady Hackathon Pre-Party/Info Session](http://techladyhackathon.org/) | 6:00 PM | iStrategyLabs | Tech Lady Hackathon
 | 10/21 | [Tech Lady Hackathon](http://techladyhackathon.org/) | 9:00 AM | The Washington Post | Tech Lady Hackathon
@@ -52,4 +52,6 @@ redirect_from:
 | 10/25 | [Python Lecture: Beginner #3](http://guwecode.georgetown.domains/event/python-lecture-beginner-3/) | 6:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
 | 10/26 | [Lambda Ladies](https://www.meetup.com/Women-Who-Code-DC/events/242932833/) | 6:30 PM | Blackstone Technology Group | WWC DC |
 | 10/29 | [Costume Brunch]() | 11:00 AM | TBD | WWC DC |
-| 10/30 | [Algorithms Meetup]() | 6:30 PM | 1776 | WWC DC |
+| 10/30 | [Algorithms Meetup](https://www.meetup.com/Women-Who-Code-DC/events/243752025/) | 6:30 PM | 1776 | WWC DC |
+| 10/30 | [Code and Costume: Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/243946524/) | 6:30 PM | CoStar Group, Inc. | WWC DC |
+| 10/30 | [Banishing your Coding Demons with Exercism.io](https://www.meetup.com/Women-Who-Code-DC/events/243994647/) | 7:00 PM | Digital Globe | WWC DC |
