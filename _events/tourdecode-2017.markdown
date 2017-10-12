@@ -36,7 +36,7 @@ redirect_from:
 | 10/10 | ["Throu­gh the Language Glass"­ Talk with Chris Nguyen](https://www.meetup.com/ACM-DC/events/242954315/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/11 | [Ruby on Rails: Using Gravitar](https://www.meetup.com/Women-Who-Code-DC/events/243597140/) | 6:30 PM | Arcadia Power | WWC DC | 
 | 10/11 | [Python Lecture: Beginner #2](http://guwecode.georgetown.domains/event/python-lecture-beginner-2/) | 6:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
-| 10/12 | [Google Digital Tools: Adwords 101]() | 6:30 PM | TBD |
+| 10/12 | [Google Digital Tools: Adwords 101]() | 6:30 PM | WeWork, 80 M St, SE, conference room 2P |
 | 10/13 | [Student Internships in Tech Panel](http://guwecode.georgetown.domains/event/student-internships-in-tech-panel/) | 2:00 PM | Leavey Program Room (at Georgetown University) | Georgetown University Women Coders |
 | 10/16 | [Learn to Give Tech Talks Part 2](https://www.meetup.com/ACM-DC/events/242954241/) | 6:00 PM | The Washington Post | DC ACM |
 | 10/16 | [Algorithms Meetup](https://www.meetup.com/Women-Who-Code-DC/events/243752004/) | 6:30 PM | Contactually | WWC DC |
