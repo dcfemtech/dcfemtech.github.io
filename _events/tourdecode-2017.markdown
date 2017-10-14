@@ -42,6 +42,7 @@ redirect_from:
 | 10/16 | [Algorithms Meetup](https://www.meetup.com/Women-Who-Code-DC/events/243752004/) | 6:30 PM | Contactually | WWC DC |
 | 10/17 | [Tour De Code 2017 - NodeSchoolDC](https://www.meetup.com/preview/node-dc/events/243586589) | 6:30 PM | Social Tables |
 | 10/18 | [Docker + Rails](https://www.meetup.com/Women-Who-Code-DC/events/243597195/) | 6:30 PM | Arcadia Power | WWC DC | 
+| 10/18 | [Python Lab: Boolean Logic](https://www.meetup.com/Women-Who-Code-DC/events/244147768/) | 6:30 PM | Urban Institute | WWC DC |
 | 10/19 | [Intro to Git and Github](https://www.meetup.com/Women-Who-Code-DC/events/243781293/) | 6:00 PM | Bloomberg | WWC DC |
 | 10/20-28 | [DC Design Week](http://www.dcdesignweek.org/) | various | various | AIGA DC
 | 10/20 | [Tech Lady Hackathon Pre-Party/Info Session](http://techladyhackathon.org/) | 6:00 PM | iStrategyLabs | Tech Lady Hackathon
