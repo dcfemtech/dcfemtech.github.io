@@ -52,7 +52,7 @@ redirect_from:
 | 10/25 | [Ruby on Rails Surrealism Workshop](https://www.meetup.com/Women-Who-Code-DC/events/243597529/) | 6:30 PM | Optoro | WWC DC | 
 | 10/25 | [Python Lecture: Beginner #3](http://guwecode.georgetown.domains/event/python-lecture-beginner-3/) | 6:00 PM | TBD (at Georgetown University) | Georgetown University Women Coders |
 | 10/26 | [Lambda Ladies](https://www.meetup.com/Women-Who-Code-DC/events/242932833/) | 6:30 PM | Blackstone Technology Group | WWC DC |
-| 10/29 | [Costume Brunch]() | 11:00 AM | TBD | WWC DC |
+| 10/29 | [Costume Brunch](https://www.meetup.com/Women-Who-Code-DC/events/244174919/) | 11:00 AM | TBD | Matchbox 14th Street |
 | 10/30 | [Algorithms Meetup](https://www.meetup.com/Women-Who-Code-DC/events/243752025/) | 6:30 PM | 1776 | WWC DC |
 | 10/30 | [Code and Costume: Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/243946524/) | 6:30 PM | CoStar Group, Inc. | WWC DC |
 | 10/30 | [Banishing your Coding Demons with Exercism.io](https://www.meetup.com/Women-Who-Code-DC/events/243994647/) | 7:00 PM | Digital Globe | WWC DC |
