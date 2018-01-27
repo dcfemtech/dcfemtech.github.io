@@ -4,14 +4,54 @@ layout: default
 <div class="l-wrapper">
   <h1><span class="main-headline">About Us</span></h1>
   <img src="assets/dcft-members.jpg">
-  <p>Members are affiliated with organizations:</p>
-  <ol>
-    <li>with women attendance that is 50% or higher</li>
-    <li>who have a focus on technology</li>
-    <li>have a primary focus in the mission statement about gender or women.</li>
-  </ol>
-  <p>For any questions on how to become a member please <a href="mailto:dcfemtech@gmail.com">email us!</a></p>
+  <p class="main-intro">DCFemTech was founded in 2014 in an effort to amplify the efforts of women in tech organizations. It is a collective, brought to life by the many, many women and minorities in DC tech organizations that it represents. Over the years, we’ve grown to include more than a dozen member organizations and supporting groups. As our community began to grow, we listened to members’ needs. We expanded to welcome any woman who was interested in lowering the barriers to entry for women in tech and who wanted to play a role in shaping this supportive, inclusive ecosystem.</p>
+</div>
+<div class="l-wrapper-large">
+  <h1><span class="main-headline">Founders</span></h1>
+  <div class="m-award-winners">
+    <ul>
+      <li>
+        <img src="assets/about/stephanie.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/nguyenist">Stephanie Nguyen</a></h3>
+      </li>
+      <li>
+        <img src="assets/about/shana.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/ShanaGlenzer">Shana Glenzer</a></h3>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="l-wrapper-large">
+  <h1><span class="main-headline">2018 &ndash; 2019 Leadership Team</span></h1>
+  <div class="m-award-winners">
+    <ul>
+      <li>
+        <img src="assets/about/zuri.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/ZuriHunter">Zuri Hunter</a></h3>
+      </li>
+      <li>
+        <img src="assets/about/anika.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/digitalanika">Anika Gupta</a></h3>
+      </li>
+      <li>
+        <img src="assets/about/shannon.jpg" aria-hidden>
+        <h3><a href="https://shannonvturner.com/">Shannon Turner</a></h3>
+      </li>
+      <li>
+        <img src="assets/about/ally.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/mylifeasalllly">Ally Palanzi</a></h3>
+      </li>
+      <li>
+        <img src="assets/about/misty.jpg" aria-hidden>
+        <h3><a href="https://twitter.com/mistymelton">Misty Melton</a></h3>
+      </li>
+    </ul>
+  </div>
+  <p class="l-center"><a class="button">Read about our Leadership process</a></p>
+</div>
+<div class="l-wrapper">
   <h1><span class="main-headline" id="members">Our Members</span></h1>
+  <p class="main-intro">Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about diversity. For any questions on how to become a member please <a href="mailto:dcfemtech@gmail.com">email us!</a></p>
   {% for member in site.members %}
     {% if member.categories.first != 'membersupport' %}
       <div class="member-lg-wrapper clearfix">
