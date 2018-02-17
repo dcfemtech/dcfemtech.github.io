@@ -6,6 +6,9 @@
   position: relative;
   background-repeat: no-repeat;
   margin-bottom: 1rem;
+  &.awards {
+    background-image: url('../assets/awards-2018/awards-header.jpg');
+  }
 
   @media(min-width: $break-medium) {
     margin-bottom: 3rem;
