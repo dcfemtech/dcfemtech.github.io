@@ -10,10 +10,13 @@
     flex-basis: 20%;
     list-style: none;
     flex-grow: 0;
-    margin-right: 4%;
+    margin: 0 2%;
     img {
-      max-width: 150px;
+      max-width: 250px;
       margin-bottom: 10px;
+    }
+    @media(max-width: $width-small) {
+      flex-basis: 45%;
     }
 
     &:last-of-type {

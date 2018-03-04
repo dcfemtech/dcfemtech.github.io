@@ -36,6 +36,7 @@
   }
   
   &-three-col {
+    text-align: center;
     @media(min-width: $break-medium) {
       @include flexbox;
       @include align-items(center);
