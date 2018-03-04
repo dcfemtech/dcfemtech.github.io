@@ -9,6 +9,17 @@
       padding: 1rem;
     }
   }
+  &-show-small {
+    display: none;
+    @media(max-width: $break-medium) {
+      display: block;
+    }
+  }
+  &-hide-small {
+    @media(max-width: $break-medium) {
+      display: none;
+    }
+  }
   &-wrapper-large {
     max-width: $width-large;
   }
