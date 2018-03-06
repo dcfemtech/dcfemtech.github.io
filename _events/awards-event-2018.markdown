@@ -8,7 +8,7 @@ datePretty: May 7th, 2018
 location: The Washington Post
 time: 6pm - 8pm
 registerLink:
-description: Join DCFemTech, and members of the DC business & tech communities as we celebrate Powerful Women in Code, Data, and Design at The 2018 DCFemTech Awards Reception.
+description: Join DCFemTech, and members of the DC business & tech communities as we celebrate Powerful Women in Code, Design, and Data at The 2018 DCFemTech Awards Reception.
 contact:
 press:
 twitter:
