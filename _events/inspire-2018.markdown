@@ -2,7 +2,7 @@
 layout: event
 title:  "Inspire"
 date: 2018-02-03
-eventDate: 2018-02-28
+eventDate: 2018-02-27
 categories: events
 datePretty: February 27, 2018
 location: The Alley 2055 L St NW Suite 400 Washington, DC 20036
