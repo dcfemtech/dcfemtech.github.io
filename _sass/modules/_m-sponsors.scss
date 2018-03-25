@@ -9,7 +9,9 @@
   .m-sponsors--gold {
     li {
       flex-basis: 40%;
-
+      @media(max-width: $width-small) {
+        flex-basis: 80%;
+      }
     }
   }
   li {
