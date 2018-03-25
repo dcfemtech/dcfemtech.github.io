@@ -23,5 +23,5 @@ Can't make it? Follow our along at [#DCFTInspire!](https://twitter.com/search?q=
 [![](/assets/sponsors/acm-dc.png)](http://local.acm.org/)
 [![](/assets/sponsors/amazon-web-services.png)](https://aws.amazon.com/)
 [![](/assets/sponsors/dcbrau.png)](http://dcbrau.com/)
-[![](/assets/sponsors/mapbox.jpg)](https://www.mapbox.com/)
+[![](/assets/sponsors/mapbox.svg)](https://www.mapbox.com/)
 [![](/assets/sponsors/radcampaign.png)](http://www.radcampaign.com/)
