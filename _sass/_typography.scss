@@ -26,6 +26,9 @@ a {
   &:hover {
     @include prefix(transition, color 100ms);
     color: $color-link-hover;
+    img {
+      opacity: .6;
+    }
   }
 }
 
