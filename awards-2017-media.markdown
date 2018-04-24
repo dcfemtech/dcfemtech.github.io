@@ -5,7 +5,7 @@ layout: post
 
 ![](/assets/awards-2017/dcft-twitter-rsvp.png)
 
-## DCFemTechrecognizes DC region’s outstanding women engineers, designers and data scientists
+# DCFemTech recognizes DC region’s outstanding women engineers, designers and data scientists
 
 ***3<sup>rd</sup> Annual Awards Celebration Scheduled for May 18th***
 
