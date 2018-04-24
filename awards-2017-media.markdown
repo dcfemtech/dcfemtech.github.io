@@ -1,5 +1,7 @@
 ---
 layout: post
+image: assets/awards-2018/dcft-twitter-rsvp.png
+excerpt: The DCFemTech Awards will recognize Power Women in Code, Design, and Data based in the Washington, DC region. Nominated by their community, these women are working in the trenches of tech to help their company or organization achieve success, sometimes entirely behind the scenes.
 ---
 <h1><span class="main-headline">Media Alert</span></h1>
 
