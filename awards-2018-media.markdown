@@ -69,7 +69,7 @@ We are pleased to announce that the award recipients are:
 
 **DESIGN**
 
-* Betsy Bland, Director of UX, The Motley Fool
+* Betsy Bland, Sr. Director of Customer Experience, MicroStrategy
 
 * Raquel Breternitz, Senior Designer, Pivotal Labs
 
