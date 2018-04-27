@@ -29,7 +29,7 @@ We are pleased to announce that the award recipients are:
 
 * Sunitha Burri, Sr Software Dev Engineer, Oath
 
-* Melissa DePuydt, Lead Developer, The Washington Post
+* Melissa DePuydt, Technical Architect, The Washington Post
 
 * Marissa Halpert, Web Developer, ISL
 
