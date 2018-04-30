@@ -25,6 +25,8 @@ We are pleased to announce that the award recipients are:
 
 * Julie Bacon, Web Developer, ISL
 
+* Clara Popescu Brooks, Software Development Manager, FireEye, Inc. 
+
 * Sunitha Burri, Sr Software Dev Engineer, Oath
 
 * Melissa DePuydt, Technical Architect, The Washington Post
@@ -48,8 +50,6 @@ We are pleased to announce that the award recipients are:
 * Ally Palanzi, Software Engineer, Nava PBC
 
 * Taylor Poindexter, Back End Engineer, Crowdskout
-
-* Clara Popescu Brooks, Software Development Manager, FireEye, Inc. 
 
 * Anya Roltsch, Backend Engineer, Tista
 
