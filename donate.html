@@ -84,10 +84,9 @@ redirect_from:
     });
     $.post("https://b9sq87esw7.execute-api.us-east-2.amazonaws.com/prod/dcfemtech-stripe-processor", send, function(data, status){
       if (data.chargeSuccess) {
-        console.log("hi");
-        $('#donation-form').before('<p class="" id="donation-status" role="alert">'+data.message+'</p>')
+        $('#donation-form').before('<p class="m-members__callout" id="donation-status" role="alert"><b>'+data.message+'</b></p>')
       } else {
-        $('#donation-form').before('<p class="" id="donation-status" role="alert">'+data.message+'</p>')
+        $('#donation-form').before('<p style="color: #721c24; background-color: #f8d7da; border-color: #f5c6cb;" id="donation-status" role="alert"><b>'+data.message+'</b></p>')
       }
     });
   }
