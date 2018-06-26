@@ -17,8 +17,10 @@ image: assets/promos/hackforgood18-promo-twitter.jpg
 ### Huge thank you to our sponsors!
 <div class="m-sponsors">
   <ul>
+    <li><a href="http://local.acm.org/"><img src="/assets/sponsors/acm-dc.png"></a></li>
     <li><a href="https://aws.amazon.com/careers/"><img src="assets/sponsors/amazon.svg" alt="Amazon Web Services"></a></li>
     <li><a href="https://www.boozallen.com/"><img src="/assets/sponsors/booz-allen.svg" alt="Booz Allen"></a></li>
+    <li><a href="https://www.deeplearninganalytics.com/"><img src="/assets/sponsors/deeplearning.png" alt="Deep Learning Analytics"></a></li>
     <li><a href="https://flatironschool.com/washington-dc-campus/?utm_campaign=Sponsored_Content&utm_source=DCFemtech&utm_medium=DCcampus"><img src="/assets/sponsors/flatiron.svg" alt="Flatiron School"></a></li>
   </ul>
 </div>
