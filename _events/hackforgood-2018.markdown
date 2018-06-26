@@ -11,18 +11,15 @@ registerLink:
 description: Hack for Good is a 2-day event bringing folks together to work on projects that support our community. Progress on projects will be presented in a science fair format at the conclusion of the event. This is a different kind of hackathon. No competition, no award money; just bringing people together to learn, make connections, and build something awesome!
 contact:
 press:
-image:
+image: assets/promos/hackforgood18-promo-twitter.jpg
 ---
 
-<!-- ### Huge thank you to our sponsors! -->
-<!-- <div class="m-sponsors">
+### Huge thank you to our sponsors!
+<div class="m-sponsors">
   <ul>
-    <li><a hrev="https://youralley.com/washington-dc/"><img src="/assets/sponsors/alley.png"></a></li>
-    <li><a href="https://datasociety.com/"><img src="/assets/sponsors/datasociety.svg"></a></li>
-    <li><a href="http://www.contactually.com/"><img src="/assets/sponsors/contactually.png"></a></li>
-    <li><a href="https://www.excella.com/"><img src="/assets/sponsors/excella.png"></a></li>
-    <li><a href="https://voxproduct.com"><img src="/assets/sponsors/voxproduct.svg"></a></li>
-    <li><a href="http://local.acm.org/"><img src="/assets/sponsors/acm-dc.png"></a></li>
+    <li><a href="https://aws.amazon.com/careers/"><img src="assets/sponsors/amazon.svg" alt="Amazon Web Services"></a></li>
+    <li><a href="https://www.boozallen.com/"><img src="/assets/sponsors/booz-allen.svg" alt="Booz Allen"></a></li>
+    <li><a href="https://flatironschool.com/washington-dc-campus/?utm_campaign=Sponsored_Content&utm_source=DCFemtech&utm_medium=DCcampus"><img src="/assets/sponsors/flatiron.svg" alt="Flatiron School"></a></li>
   </ul>
-</div> -->
+</div>
 
