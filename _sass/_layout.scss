@@ -57,7 +57,7 @@
         flex-grow: 0;
         margin: 0;
       }
-      &.width-auto { 
+      &.width-auto {
         > * {
           flex-basis: 0;
         }
@@ -77,14 +77,4 @@
 
 img {
   max-width: 100%;
-}
-
-.events {
-  a {
-    img {
-      max-height: 50px;
-      height: 100%;
-      margin: 10px;
-    }
-  }
 }

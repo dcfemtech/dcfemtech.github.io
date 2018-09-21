@@ -33,7 +33,7 @@ redirect_from:
 <div class="m-sponsors">
   <h2 class="u-center"><span class="main-headline">Gold Sponsors</span></h2>
   <ul class="m-sponsors--gold">
-    <li><a href="https://www.isl.co/"><img src="/assets/sponsors/isl.svg" alt="ISL"></a></li>
+    <li><a href="https://www.isl.co/"><img src="/assets/sponsors/isl-tdc.svg" alt="ISL"></a></li>
     <li><a href="http://www.socialtables.com/"><img src="assets/sponsors/social-tables.png" alt="Social Tables"></a></li>
   </ul>
   <h2 class="u-center"><span class="main-headline">Silver Sponsors</span></h2>
