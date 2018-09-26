@@ -25,9 +25,10 @@ redirect_from:
 | 10/3  | [Python Beginners' Night](https://www.meetup.com/Women-Who-Code-DC/events/254978236/) | Women Who Code | 6:30pm-8:30pm | Fiscal Note |
 | 10/11 | [Women of Color in STEM Panel](https://www.eventbrite.com/e/black-girls-code-dc-chapter-presents-women-of-color-in-stem-career-panel-tickets-49154598728)             | Black Girls Code                     | 6:00pm-9:00pm        | Verizon 1300 I Street, NW Washington, DC 20005 |
 | 10/11 | [Speaker Support](https://www.meetup.com/Women-Who-Code-DC/events/dpfcfqyxnbpb/) | Women Who Code | 6:30pm-8:30pm | WeWork Dupont |
-| 10/13 | Hacktoberfest Day DC                     | Black Code Collective/Women Who Code | 10:00am-1:00pm   | Optoro                                         |
+| 10/13 | [Hacktoberfest Day DC](https://www.eventbrite.com/e/hacktoberfest-day-dc-2018-tickets-49167534419)                     | Black Code Collective/Women Who Code | 10:00am-1:00pm   | Optoro                                         |
 | 10/15 | [Intro To Accessibility](https://www.meetup.com/Women-Who-Code-DC/events/254890697/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/20 | [Tech, Rebalanced](https://techladyhackathon.org/) | Tech Rebalanced | TBD | The Washington Post |
+| 10/20 - 10/28 | [DC Design Week](https://www.eventbrite.com/e/hacktoberfest-day-dc-2018-tickets-49167534419) | AIGA DC | -- | Throughout the DMV |
 | 10/24 | [Design Systems](https://nvite.com/CodePenDC/n7j6jl)                           | CodepenDC                            | 6:30pm-8:30pm   | The Atlantic                                   |
 | 10/24 | [Python Lab](https://www.meetup.com/Women-Who-Code-DC/events/254833587/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/27 | [Code and Coffee](https://www.meetup.com/Girl-Develop-It-DC/events/rbcszpyxnbkc/)                          | Girl Develop It. DC                  | 10:00am-12:00pm      | DC Public Library - TBD                        |
