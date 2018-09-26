@@ -17,17 +17,21 @@ twitter:
 redirect_from:
   - /tourdecode
 ---
-| Date  | Event                                    | Organization                         | Time        | Location                                       |
-|-------|------------------------------------------|--------------------------------------|-------------|------------------------------------------------|
-| 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-50239125577)              | DCFemTech                            | 6:30p-8:30p |  WeWork Navy Yard                    |
-| 10/3  | [Intro to Coding: HTML & CSS Livestream](https://generalassemb.ly/education/intro-to-coding-html-css-livestream/washington-dc/55447)   | General Assembly                     | 1-3p        | Online                                         |
-| 10/11 | [Women of Color in STEM Panel](https://www.eventbrite.com/e/black-girls-code-dc-chapter-presents-women-of-color-in-stem-career-panel-tickets-49154598728)             | Black Girls Code                     | 6-9p        | Verizon 1300 I Street, NW Washington, DC 20005 |
-| 10/13 | Hacktoberfest Day DC                     | Black Code Collective/Women Who Code | 10 am-1pm   | Optoro                                         |
-| 10/15 | [Intro To Accessibility](https://www.meetup.com/Women-Who-Code-DC/events/254890697/) | Women Who Code | 6:30p - 8:30pm | TBD |
+| Date  | Event                  | Organization                         | Time                  | Location                |
+|-------|------------------------|--------------------------------------|-----------------------|-------------------------|
+| 10/1  | [Front End Lab - First Timer's Night](https://www.meetup.com/Women-Who-Code-DC/events/254886115/) | Women Who Code | 6:30pm-8:30pm | TBD |
+| 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-50239125577) | DCFemTech                            | 6:30pm-8:30pm |  WeWork Navy Yard                    |
+| 10/3  | [Intro to Coding: HTML & CSS Livestream](https://generalassemb.ly/education/intro-to-coding-html-css-livestream/washington-dc/55447)   | General Assembly                     | 1:00pm-3:00pm        | Online
+| 10/3  | [Python Beginners' Night](https://www.meetup.com/Women-Who-Code-DC/events/254978236/) | Women Who Code | 6:30pm-8:30pm | Fiscal Note |
+| 10/11 | [Women of Color in STEM Panel](https://www.eventbrite.com/e/black-girls-code-dc-chapter-presents-women-of-color-in-stem-career-panel-tickets-49154598728)             | Black Girls Code                     | 6:00pm-9:00pm        | Verizon 1300 I Street, NW Washington, DC 20005 |
+| 10/11 | [Speaker Support](https://www.meetup.com/Women-Who-Code-DC/events/dpfcfqyxnbpb/) | Women Who Code | 6:30pm-8:30pm | WeWork Dupont |
+| 10/13 | Hacktoberfest Day DC                     | Black Code Collective/Women Who Code | 10:00am-1:00pm   | Optoro                                         |
+| 10/15 | [Intro To Accessibility](https://www.meetup.com/Women-Who-Code-DC/events/254890697/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/20 | [Tech, Rebalanced](https://techladyhackathon.org/) | Tech Rebalanced | TBD | The Washington Post |
-| 10/24 | [Design Systems](https://nvite.com/CodePenDC/n7j6jl)                           | CodepenDC                            | 6:30-8:30   | The Atlantic                                   |
-| 10/27 | [Code and Coffee](https://www.meetup.com/Girl-Develop-It-DC/events/rbcszpyxnbkc/)                          | Girl Develop It. DC                  | 10-12p      | DC Public Library - TBD                        |
-
+| 10/24 | [Design Systems](https://nvite.com/CodePenDC/n7j6jl)                           | CodepenDC                            | 6:30pm-8:30pm   | The Atlantic                                   |
+| 10/24 | [Python Lab](https://www.meetup.com/Women-Who-Code-DC/events/254833587/) | Women Who Code | 6:30pm-8:30pm | TBD |
+| 10/27 | [Code and Coffee](https://www.meetup.com/Girl-Develop-It-DC/events/rbcszpyxnbkc/)                          | Girl Develop It. DC                  | 10:00am-12:00pm      | DC Public Library - TBD                        |
+| 10/30 | [Exploring Big Data with Oracle Cloud](https://www.meetup.com/Women-Who-Code-DC/events/254587727/) | Women Who Code | 6:30pm-8:30pm | WeWork Dupont |
 
 <h1><span class="main-headline">Sponsors</span></h1>
 <p class="main-intro l-center">Our sincere thanks to these sponsors who help make this event possible.</p>
