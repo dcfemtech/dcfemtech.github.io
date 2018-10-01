@@ -19,7 +19,7 @@ redirect_from:
 ---
 | Date  | Event                  | Organization                         | Time                  | Location                |
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
-| 10/1  | [Front End Lab - First Timer's Night](https://www.meetup.com/Women-Who-Code-DC/events/254886115/) | Women Who Code | 6:30pm-8:30pm | TBD |
+| 10/1  | [Front End Lab - First Timer's Night](https://www.meetup.com/Women-Who-Code-DC/events/254886115/) | Women Who Code | 6:30pm-8:30pm | Arlington Central Library |
 | 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-50239125577) | DCFemTech                            | 6:30pm-8:30pm |  WeWork Navy Yard                    |
 | 10/3  | [Intro to Coding: HTML & CSS Livestream](https://generalassemb.ly/education/intro-to-coding-html-css-livestream/washington-dc/55447)   | General Assembly                     | 1:00pm-3:00pm        | Online
 | 10/3  | [Python Beginners' Night](https://www.meetup.com/Women-Who-Code-DC/events/254978236/) | Women Who Code | 6:30pm-8:30pm | Fiscal Note |
