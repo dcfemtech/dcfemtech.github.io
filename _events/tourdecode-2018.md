@@ -28,7 +28,7 @@ redirect_from:
 | 10/13 | [Hacktoberfest Day DC](https://www.eventbrite.com/e/hacktoberfest-day-dc-2018-tickets-49167534419)                     | Black Code Collective/Women Who Code | 10:00am-1:00pm   | Optoro                                         |
 | 10/15 | [Intro To Accessibility](https://www.meetup.com/Women-Who-Code-DC/events/254890697/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/20 | [Tech, Rebalanced](https://techladyhackathon.org/) | Tech Rebalanced | TBD | The Washington Post |
-| 10/20 - 10/28 | [DC Design Week](https://www.eventbrite.com/e/hacktoberfest-day-dc-2018-tickets-49167534419) | AIGA DC | -- | Throughout the DMV |
+| 10/20 - 10/28 | [DC Design Week](https://www.dcdesignweek.org/) | AIGA DC | -- | Throughout the DMV |
 | 10/24 | [Design Systems](https://nvite.com/CodePenDC/n7j6jl)                           | CodepenDC                            | 6:30pm-8:30pm   | The Atlantic                                   |
 | 10/24 | [Python Lab](https://www.meetup.com/Women-Who-Code-DC/events/254833587/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/24 | [WDSDC Shiny Workshop](https://www.meetup.com/WomenDataScientistsDC/events/255156436/) | Women Data Scientists DC | 6:30-9:30pm | GWU |
