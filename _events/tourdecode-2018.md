@@ -33,6 +33,7 @@ redirect_from:
 | 10/24 | [Python Lab](https://www.meetup.com/Women-Who-Code-DC/events/254833587/) | Women Who Code | 6:30pm-8:30pm | TBD |
 | 10/24 | [WDSDC Shiny Workshop](https://www.meetup.com/WomenDataScientistsDC/events/255156436/) | Women Data Scientists DC | 6:30-9:30pm | GWU |
 | 10/25 | [Getting Started in Data Science & Machine Learning](https://www.eventbrite.com/e/booz-allen-getting-started-in-data-science-machine-learning-tickets-50672435619) | Booz Allen Women in Data Science & Women in Cyber | 5:30pm-7:30pm | Booz Allen Hamilton |
+| 10/25 | [Tech Ladies DC Networking Happy Hour](https://www.eventbrite.com/e/tech-ladies-dc-networking-happy-hour-tickets-51214289318) | Tech Ladies DC | 5:30-7:00pm | WunderGarten, NoMA |
 | 10/27 | [Code and Coffee](https://www.meetup.com/Girl-Develop-It-DC/events/rbcszpyxnbkc/)                          | Girl Develop It. DC                  | 10:00am-12:00pm      | DC Public Library - TBD                        |
 | 10/30 | [Exploring Big Data with Oracle Cloud](https://www.meetup.com/Women-Who-Code-DC/events/254587727/) | Women Who Code | 6:30pm-8:30pm | WeWork Dupont |
 
