@@ -36,6 +36,7 @@ redirect_from:
 | 10/25 | [Tech Ladies DC Networking Happy Hour](https://www.eventbrite.com/e/tech-ladies-dc-networking-happy-hour-tickets-51214289318) | Tech Ladies DC | 5:30-7:00pm | WunderGarten, NoMA |
 | 10/27 | [Code and Coffee](https://www.meetup.com/Girl-Develop-It-DC/events/rbcszpyxnbkc/)                          | Girl Develop It. DC                  | 10:00am-12:00pm      | DC Public Library - TBD                        |
 | 10/30 | [Exploring Big Data with Oracle Cloud](https://www.meetup.com/Women-Who-Code-DC/events/254587727/) | Women Who Code | 6:30pm-8:30pm | WeWork Dupont |
+| 10/31 | [Fear_Front: A Spook-tacular Front-End Extravaganza](https://4front.io/) | ISL | 9:00am-11:00am | ISL
 
 <h1><span class="main-headline">Sponsors</span></h1>
 <p class="main-intro l-center">Our sincere thanks to these sponsors who help make this event possible.</p>
