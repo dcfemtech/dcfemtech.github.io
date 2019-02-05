@@ -8,4 +8,5 @@ description: A salon night held monthly to creative ladies. We’ll wine, dine, 
 logo: assets/icons/ladieswinedesign.jpg
 link: https://ladieswinedesign.com/washington-d-c/
 twitter: LWD_DC
+facebook: https://www.facebook.com/groups/ladieswinedesigndc/
 ---
