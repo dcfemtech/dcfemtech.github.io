@@ -20,7 +20,7 @@ image: assets/promos/inspire-19.png
     <li><a href="https://www.axios.com/about#jobs"><img src="assets/sponsors/axios.png" alt="Axios"></a></li>
     <li><a href="https://www.boozallen.com/"><img src="/assets/sponsors/booz-allen.svg" alt="Booz Allen"></a></li>
     <li><a href="https://www.excella.com/"><img src="/assets/sponsors/excella.png" alt="Excella"></a></li>
-    <li><a href="https://makeoffices.com/"><img src="/assets/sponsors/makeoffices.png" alt="Make Offices"></a>
+    <li><a href="https://makeoffices.com/"><img src="/assets/sponsors/makeoffices.png" alt="Make Offices"></a></li>
     <li><a href="https://careers.washingtonpost.com/"><img src="assets/sponsors/wapo.svg" alt="The Washington Post"></a></li>
   </ul>
 </div>
