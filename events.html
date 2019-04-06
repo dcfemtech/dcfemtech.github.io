@@ -24,7 +24,8 @@ layout: default
               {% else %}
                 {% assign link = site.events.last.url | prepend: site.baseurl %}
               {% endif %}
-              <a class="button" href="{{ link }}">Read more</a>            </div>
+              <a class="button" href="{{ link }}">Read more</a>
+            </div>
           </div>
         {% endif %}
       {% endfor %}
@@ -47,7 +48,13 @@ layout: default
               <h2>{{ event.title }}</h2>
               <p class="m-blocks__date">{{ event.datePretty }} | {{ event.location }} | {{ event.time }}</p>
               <p class="m-blocks__description">{{ event.description }}</p>
-              <a class="button" href=".{{ event.url | prepend: site.baseurl }}">Read more</a>
+              {% assign link = '' %}
+              {% if event.link != null %}
+                {% assign link = event.link | prepend: site.baseurl %}
+              {% else %}
+                {% assign link = event.url | prepend: site.baseurl %}
+              {% endif %}
+              <a class="button" href="{{ link }}">Read more</a>
             </div>
           </div>
         {% endif %}

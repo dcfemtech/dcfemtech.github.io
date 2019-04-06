@@ -12,5 +12,5 @@ description: Join DCFemTech, and members of the DC business & tech communities a
 contact:
 press:
 twitter:
-link: /awards.html
+link: /awards-2018.html
 ---

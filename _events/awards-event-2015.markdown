@@ -13,4 +13,5 @@ contact:
 press:
 twitter:
 image: assets/awards-2016.jpg
+link: /awards-2016.html
 ---
