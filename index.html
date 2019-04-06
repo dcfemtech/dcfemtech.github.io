@@ -49,21 +49,8 @@ layout: default
     <div class="l-double">
       <p class="main-intro">We wouldn't be able to do this without the support of generous sponsors! Sponsorships can include in-kind space donation, a charitable contribution of funds, or sponsorhips of our events.
       </p>
-      <a class="button" href="{{ "donate" | prepend: site.baseurl }}">Donate to DCFT</a>
+      <a class="button" href="{{ "donate" | prepend: site.baseurl }}">Donate!</a>
     </div>
   </div>
-  <div class="l-wrapper-small">
-    <div class="m-members__callout">
-      <a href="https://districtciviclabs.org/"><img src="assets/sponsors/district-civic-labs.svg" alt="District Civic Labs"></a>
-      <p>DCFemTech’s 501(c)(3) fiscal sponsor is District Civic Labs, a non-profit providing shared services and infrastructure to DC's civic technology community.</p>
-    </div>
-    <center>
-    <h2><span class="main-headline">2019 Annual Sponsors</span></h2>
-    <div class="m-sponsors">
-      <ul class="m-sponsors--gold">
-        <li><a href="https://www.axios.com/about#jobs"><img src="assets/sponsors/axios.png" alt="Axios"></a></li>
-        <li><a href="https://www.boozallen.com/"><img src="/assets/sponsors/booz-allen.svg" alt="Booz Allen"></a></li>
-      </ul>
-    </div>
-  </center>
+  {% include annual-sponsors.html %}
 </section>
