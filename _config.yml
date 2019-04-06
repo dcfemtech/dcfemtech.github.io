@@ -29,7 +29,7 @@ collections:
     permalink: /:path
 
 # Redirects
-gems:
+plugins:
   - jekyll-redirect-from
 
 whitelist:
