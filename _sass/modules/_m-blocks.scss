@@ -44,6 +44,7 @@
     &__block {
       @include flex-basis(48%);
       @include flexbox;
+      @include align-items(center);
     }
   }
 

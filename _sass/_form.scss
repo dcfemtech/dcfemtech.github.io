@@ -3,7 +3,7 @@ input {
   border: 1px solid $color-light-gray;
   display: block;
   font-family: $font-main;
-  margin: 1em 0;
+  margin: 1.5em 0;
   padding: 1em;
   width: calc(100% - 2em);
 }
@@ -14,7 +14,6 @@ form {
 
 label {
   font-family: $font-main;
-  font-size: .8em;
 }
 
 button,
