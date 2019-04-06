@@ -11,7 +11,7 @@ redirect_from:
       DCFemTech accepts donations in the form of both direct donations and sponsorships. Donations are tax-deductible through our fiscal sponsor, <a href="https://districtciviclabs.org">District Civic Labs</a>. Sponsorships can include in-kind space donation, a charitable contribution of funds, or sponsorships of our events: DCFemTech Awards, Tour De Code, Hack for Good, and more! To learn more about supporting DCFemTech please <a href="mailto:dcfemtech@gmail.com">email us</a>!
     </p>
   </div>
-  <div class="">
+  <div>
     <form id="donation-form">
       <div id="donate">
         <div class="mc-field-group">
@@ -28,20 +28,9 @@ redirect_from:
       </div>
     </form>
   </div>
-</div>
-  <div class="l-wrapper-small">
-  <h1><span class="main-headline">2019 Annual Sponsors</span></h1>
-  <div class="m-members__callout">
-    <a href="https://districtciviclabs.org/"><img src="assets/sponsors/district-civic-labs.svg" alt="District Civic Labs"></a>
-    <p>DCFemTech’s 501(c)(3) fiscal sponsor is District Civic Labs, a non-profit providing shared services and infrastructure to DC's civic technology community.</p>
-  </div>
-  <div class="m-sponsors">
-    <ul class="m-sponsors--gold">
-      <li><a href="https://www.axios.com/about#jobs"><img src="assets/sponsors/axios.png" alt="Axios"></a></li>
-      <li><a href="https://www.boozallen.com/"><img src="/assets/sponsors/booz-allen.svg" alt="Booz Allen"></a></li>
-    </ul>
-  </div>
+  {% include annual-sponsors.html %}
 </section>
+
 <script src="https://checkout.stripe.com/checkout.js"></script>
 <script
 			  src="https://code.jquery.com/jquery-3.3.1.min.js"
