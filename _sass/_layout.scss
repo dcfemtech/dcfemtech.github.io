@@ -51,19 +51,17 @@
     @media(min-width: $break-medium) {
       @include flexbox;
       @include align-items(center);
-      @include justify-content(space-between);
-      > * {
-        flex-basis: 33%;
-        flex-grow: 0;
-        margin: 0;
-      }
+      @include justify-content(center);
+      flex-wrap: wrap;
       &.width-auto {
         > * {
+          margin: 1rem;
           flex-basis: 0;
         }
       }
     }
   }
+  
   &-header-image {
     text-align: center;
   }
