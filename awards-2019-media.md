@@ -41,7 +41,7 @@ The 2019 recipients are:
 
 * Rae Gaines, Threespot
 
-* Paula Gearon, Cisco
+* Paula Gearon, Cisco Systems
 
 * Mary Griffus, Radiant Solutions
 
@@ -63,7 +63,7 @@ The 2019 recipients are:
 
 * Rekha Tenjarla, The Atlantic
 
-* Meg Viar, Megaphone
+* Meg Viar, Nomadic Learning
 
 * Zhuangfang NaNa Yi, Development Seed
 
