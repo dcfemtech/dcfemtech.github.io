@@ -111,7 +111,7 @@ The 2019 recipients are:
 
 * Rosie Cima, E W Scripps
 
-* Madeleine Gleave, Nithio Holdings, Inc
+* Madeleine Gleave, Nithio
 
 * Jennifer Golbeck, University of Maryland College Park
 
