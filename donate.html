@@ -18,6 +18,9 @@ redirect_from:
         <input type="number" id="donation-amount" class="form-control" value="25" aria-label="Amount (to the nearest dollar)">
         <label for="special-instructions">Special instructions</label>
         <input type="text" class="form-control" id="special-instructions" placeholder="Special instructions">
+        <input type="checkbox" id="cover-fees" />
+        <label for="cover-fees">Cover processing fees (2.2% + $0.30)</label>
+
 
         <button type="submit" class="btn btn-primary" id="donationButton">Submit</button>
       </div>
@@ -34,17 +37,36 @@ redirect_from:
 <script type="text/javascript">
   var apiKey;
   var account;
+  var donationAmount = document.getElementById('donation-amount');
+  // This looks sketchy, but it's a conversion from dollars to cents because that's
+  // what Stripe expects to receive. For example, $25.00 is sent as 2500.
+  var amount = Number(donationAmount.value) * 100;
+
+  var updateAmount = function(){
+    amount = Number(donationAmount.value);
+    if (document.getElementById('cover-fees').checked) {
+      amount = (amount * 1.022) + 0.30;
+    }
+    // Round to two decimal places
+    amount = Math.round((amount + 0.00001) * 100) / 100;
+    // Back to cents
+    amount = amount * 100
+    document.getElementById('donationButton').textContent = "Make $"+(amount/100)+" donation";
+  }
+  donationAmount.addEventListener('keyup', updateAmount);
+  document.getElementById('cover-fees').addEventListener('click', updateAmount);
+  updateAmount();
 
   if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
-  // Check to see if we are working locally and should use test data.
-  apiKey = 'pk_test_WdOeHxK5PRn9H3Crlf0pYYYP';
-  account = 'test';
+    // Check to see if we are working locally and should use test data.
+    apiKey = 'pk_test_WdOeHxK5PRn9H3Crlf0pYYYP';
+    account = 'test';
   } else {
-  // Use the live key.
-  // Stripe is fine with publishing the *public* API key. There's a separate
-  // secret one that allows for the actual charging of cards and such.
-  apiKey = 'pk_live_PNIueSBxjLHRvhkp9VR4vl4a';
-  account = 'live';
+    // Use the live key.
+    // Stripe is fine with publishing the *public* API key. There's a separate
+    // secret one that allows for the actual charging of cards and such.
+    apiKey = 'pk_live_PNIueSBxjLHRvhkp9VR4vl4a';
+    account = 'live';
   }
 
   var handler = StripeCheckout.configure({
@@ -54,7 +76,6 @@ redirect_from:
   token: function(token) {
     // You can access the token ID with `token.id`.
     // Get the token ID to your server-side code for use.
-    var amount = Number(document.getElementById('donation-amount').value + "00")
     var instruction = document.getElementById('special-instructions').value
     // Send a request to our AWS Lambda function, which handles the
     // secret Stripe stuff.
@@ -80,7 +101,8 @@ redirect_from:
   handler.open({
     name: 'DCFemTech',
     description: 'Donation',
-    amount: Number(document.getElementById('donation-amount').value + "00"),
+    image: 'https://dcfemtech.com/assets/fav.png',
+    amount: amount,
     allowRememberMe: false
   });
   e.preventDefault();
