@@ -1,5 +1,7 @@
 ---
 layout: post
+image: assets/awards-2019/header-with-tagline.png
+excerpt: The DCFemTech Awards recognize Power Women in Code, Design, and Data based in the Washington, DC region.
 ---
 <h1><span class="main-headline">Media Alert</span></h1>
 
