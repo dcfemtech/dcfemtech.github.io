@@ -85,7 +85,7 @@ The 2019 recipients are:
 
 * Liz Rose Chmela, Made x We
 
-* Meag Doherty, U Group
+* Meag Doherty, U.Group
 
 * Lauryn Fantano, United States Digital Service
 
