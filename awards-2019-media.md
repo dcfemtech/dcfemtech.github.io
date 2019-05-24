@@ -145,7 +145,7 @@ DCFemTech welcomes the community to join them in the celebration of 2019 DCFemTe
 
 **Media can RSVP** to Kelly Miller at KellyFMillerDC@gmail.com
 
-The DCFemTech Awards are made possible through the generous support of our annual sponsors, The Washington DC Economic Partnership and Office of the Deputy Mayor for Planning and Economic Development, Axios, Booz Allen Hamilton; gold sponsors, GitHub, Research Innovations, The Washington Post; and able sponsors, Alarm.com, Arcadia Power, Axios, Booz Allen Hamilton, Compass, Morning Consult, Stites & Harbison, Cvent / SocialTables, Wingate Hughes. The awards are organized by the dedicated DCFemTech Leadership Team comprised of Shannon Turner, Ally Palanzi, Zuri Hunter, and Anika Gupta with cofounder Shana Glenzer.
+The DCFemTech Awards are made possible through the generous support of our annual sponsors, The Washington DC Economic Partnership and Office of the Deputy Mayor for Planning and Economic Development, Axios, Booz Allen Hamilton; gold sponsors, GitHub, Mapbox, Research Innovations, The Washington Post; and able sponsors, Alarm.com, Arcadia Power, Axios, Booz Allen Hamilton, Compass, Morning Consult, Stites & Harbison, Cvent / SocialTables, Wingate Hughes. The awards are organized by the dedicated DCFemTech Leadership Team comprised of Shannon Turner, Ally Palanzi, Zuri Hunter, and Anika Gupta with cofounder Shana Glenzer.
 
  ** **
 
