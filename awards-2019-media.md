@@ -99,7 +99,7 @@ The 2019 recipients are:
 
 * Ramla Mahmood, Vox Media
 
-* Kate McCall-Kiley, US Census Bureau
+* Kate McCall-Kiley, xD
 
 * Kim Nguyen, Compass
 
