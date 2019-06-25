@@ -67,6 +67,17 @@ h3 {
 li {
   line-height: 1.8;
   list-style: initial;
+  list-style-position: inside;
+  margin-bottom: .5rem;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
+
+hr {
+  margin: 2rem 0;
+  border: 1px solid #8ed2d4;
 }
 
 .main-intro {
