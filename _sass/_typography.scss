@@ -67,12 +67,6 @@ h3 {
 li {
   line-height: 1.8;
   list-style: initial;
-  margin-bottom: .5rem;
-  margin-left: 1rem;
-}
-
-ul {
-  margin-bottom: 2rem;
 }
 
 hr {
@@ -108,4 +102,15 @@ hr {
   overflow: hidden;
   position: absolute;
   width: 0;
+}
+
+.post {
+  ul {
+    margin-bottom: 2rem;
+  }
+
+  li {
+    margin-bottom: .5rem;
+    margin-left: 1rem;
+  }
 }
