@@ -14,8 +14,7 @@ excerpt: DCFemTech's Tour de Code is a collaboration with dozens of organization
 contact:
 press:
 twitter:
-redirect_from:
-  - /tourdecode
+
 ---
 | Date  | Event                  | Organization                         | Time                  | Location                |
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
