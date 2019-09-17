@@ -19,7 +19,7 @@ redirect_from:
 ---
 | Date  | Event                  | Organization                         | Time                  | Location                |
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
-| 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-50239125577) | DCFemTech                            | 6:30pm-8:30pm |  WeWork Navy Yard                    |
+| 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-72648677149) | DCFemTech                            | 6:30pm-8:30pm |  The Alley @ Verizon                    |
 
 <h2>More events coming soon!</h2>
 
