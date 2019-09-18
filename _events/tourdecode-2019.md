@@ -20,6 +20,9 @@ redirect_from:
 | Date  | Event                  | Organization                         | Time                  | Location                |
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
 | 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-72648677149) | DCFemTech                            | 6:30pm-8:30pm |  The Alley @ Verizon                    |
+| 10/7  | [Using Tech For Good: A New Generation of Civic-Minded Technologists](https://www.eventbrite.com/e/using-tech-for-good-a-new-generation-of-civic-minded-technologists-registration-72406581033) | Public Interest Tech University Network | 1:00pm-7:30pm |  Georgetown University                    |
+| 10/9  | [DC Community Tech Day](https://byteback.org/dc-community-tech-day-volunteer-presenter/) | Byte Back                            | 10:00am-1:00pm |  Byte Back                    |
+| 10/19  | [Tech, Rebalanced](https://techrebalanced.com) | Tech, Rebalanced                            | All day |  TBA                    |
 
 <h2>More events coming soon!</h2>
 
