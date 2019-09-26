@@ -23,7 +23,7 @@ redirect_from:
 | 10/2  | [Python Beginners Night](https://www.meetup.com/Women-Who-Code-DC/events/264989626/) | Women Who Code                            | 6:30pm-8:30pm |  Fiscal Note                    |
 | 10/2  | [Code for Good Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/265046615/) | Women Who Code                            | 7:00pm-9:00pm |  Custom Ink                    |
 | 10/2  | [Job Hunting and Salary Negotiation](https://www.meetup.com/rladies-dc/events/265104303/) | R-Ladies                            | 6:30pm-8:00pm |  Tenley-Friendship Neighborhood Library                    |
-| 10/2  | [Technology & Environment](https://www.meetup.com/Geo-DC/events/264624231/) | R-Ladies                            | 7:00pm-10:00pm |  Local 16                    |
+| 10/2  | [Technology & Environment](https://www.meetup.com/Geo-DC/events/264624231/) | Geo DC                            | 7:00pm-10:00pm |  Local 16                    |
 | 10/4  | [Books in Bars: Lab Girl](https://www.meetup.com/rladies-dc/events/263693034/) | R-Ladies                            | 7:00pm-9:00pm |  Denizen's Brewing Co                    |
 | 10/5  | [Hacktoberfest](https://www.eventbrite.com/e/hacktoberfest-day-dc-2019-tickets-72170292287) | Black Code Collective                            | 10:00am-1:00pm |  Social Tables                    |
 | 10/7  | [Using Tech For Good: A New Generation of Civic-Minded Technologists](https://www.eventbrite.com/e/using-tech-for-good-a-new-generation-of-civic-minded-technologists-registration-72406581033) | Public Interest Tech University Network | 1:00pm-7:30pm |  Georgetown University                    |
