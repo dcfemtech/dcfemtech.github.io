@@ -19,6 +19,7 @@ redirect_from:
 ---
 | Date  | Event                  | Organization                         | Time                  | Location                |
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
+| 10/1  | [Girls in Tech Mentoring Orientation](https://womenintechnology.wufoo.com/forms/zlrjtzv09hyitt/) | Girls in Tech                            | 6:00pm-8:30pm |  Fiscal Note                    |
 | 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-72648677149) | DCFemTech                            | 6:30pm-8:30pm |  The Alley @ Verizon                    |
 | 10/2  | [Python Beginners Night](https://www.meetup.com/Women-Who-Code-DC/events/264989626/) | Women Who Code                            | 6:30pm-8:30pm |  Fiscal Note                    |
 | 10/2  | [Code for Good Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/265046615/) | Women Who Code                            | 7:00pm-9:00pm |  Custom Ink                    |
