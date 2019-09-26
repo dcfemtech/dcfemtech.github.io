@@ -21,9 +21,21 @@ redirect_from:
 |-------|------------------------|--------------------------------------|-----------------------|-------------------------|
 | 10/2  | [Tour de Code Kickoff Party!](https://www.eventbrite.com/e/dcfemtech-tour-de-code-kickoff-tickets-72648677149) | DCFemTech                            | 6:30pm-8:30pm |  The Alley @ Verizon                    |
 | 10/2  | [Python Beginners Night](https://www.meetup.com/Women-Who-Code-DC/events/264989626/) | Women Who Code                            | 6:30pm-8:30pm |  Fiscal Note                    |
+| 10/2  | [Code for Good Hack Night](https://www.meetup.com/Women-Who-Code-DC/events/265046615/) | Women Who Code                            | 7:00pm-9:00pm |  Custom Ink                    |
+| 10/2  | [Job Hunting and Salary Negotiation](https://www.meetup.com/rladies-dc/events/265104303/) | R-Ladies                            | 6:30pm-8:00pm |  Tenley-Friendship Neighborhood Library                    |
+| 10/2  | [Technology & Environment](https://www.meetup.com/Geo-DC/events/264624231/) | R-Ladies                            | 7:00pm-10:00pm |  Local 16                    |
+| 10/4  | [Books in Bars: Lab Girl](https://www.meetup.com/rladies-dc/events/263693034/) | R-Ladies                            | 7:00pm-9:00pm |  Denizen's Brewing Co                    |
+| 10/5  | [Hacktoberfest](https://www.eventbrite.com/e/hacktoberfest-day-dc-2019-tickets-72170292287) | Black Code Collective                            | 10:00am-1:00pm |  Social Tables                    |
 | 10/7  | [Using Tech For Good: A New Generation of Civic-Minded Technologists](https://www.eventbrite.com/e/using-tech-for-good-a-new-generation-of-civic-minded-technologists-registration-72406581033) | Public Interest Tech University Network | 1:00pm-7:30pm |  Georgetown University                    |
+| 10/7  | [Front End Lab](https://www.meetup.com/Women-Who-Code-DC/events/264924055) | Women Who Code                            | 6:30pm-8:30pm |  Atlantic Media                    |
+| 10/7  | [The Beauty of Bash: Linux Essentials](https://www.meetup.com/Women-Who-Code-DC/events/264933732/) | Women Who Code                            | 6:30pm-8:30pm |  STSI                    |
+| 10/8  | [Hack and Tell](https://www.meetup.com/DC-Hack-and-Tell/events/264249560/) | Hack and Tell                            | 6:30pm-8:30pm |  Social Tables                    |
 | 10/9  | [DC Community Tech Day](https://byteback.org/dc-community-tech-day-volunteer-presenter/) | Byte Back                            | 10:00am-1:00pm |  Byte Back                    |
-| 10/19  | [Tech, Rebalanced](https://techrebalanced.com) | Tech, Rebalanced                            | All day |  TBA                    |
+| 10/10  | [Speaker Support](https://www.meetup.com/Women-Who-Code-DC/events/vpfshryznbnb/) | Women Who Code                            | 6:30pm-8:30pm |  Vox Media                    |
+| 10/10  | [Project Night](https://www.meetup.com/Code-for-DC/events/263946401/) | Code for DC                            | 6:30pm-9:00pm |  Learning Objects                    |
+| 10/19  | [Tech, Rebalanced Pre-Party](https://www.eventbrite.com/e/celebrating-underrepresented-in-technology-tickets-73145926435) | Tech, Rebalanced                            | 5:30pm-8:00pm |  Verizon Alley                    |
+| 10/19  | [Tech, Rebalanced](https://techrebalanced.com) | Tech, Rebalanced                            | All day |  MakeOffices at the Wharf                    |
+| 10/22  | [Project Night](https://www.meetup.com/Code-for-DC/events/262833552/) | Code for DC                            | 6:30pm-9:00pm |  Social Tables                    |
 | 10/26  | [NG-Girls (Angular Workshop)](http://ng-girls.org/ng-girls-dc-2019/) | NG-Girls                            | 9:30am-5:30pm |  Arlington Tech eXchange (Excella Consulting)                    |
 
 <h2>More events coming soon!</h2>
