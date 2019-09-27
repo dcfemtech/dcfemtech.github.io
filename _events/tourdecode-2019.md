@@ -34,6 +34,7 @@ redirect_from:
 | 10/9  | [DC Community Tech Day](https://byteback.org/dc-community-tech-day-volunteer-presenter/) | Byte Back                            | 10:00am-1:00pm |  Byte Back                    |
 | 10/10  | [Speaker Support](https://www.meetup.com/Women-Who-Code-DC/events/vpfshryznbnb/) | Women Who Code                            | 6:30pm-8:30pm |  Vox Media                    |
 | 10/10  | [Project Night](https://www.meetup.com/Code-for-DC/events/263946401/) | Code for DC                            | 6:30pm-9:00pm |  Learning Objects                    |
+| 10/16  | [Python Lab: Data Science](https://www.meetup.com/Women-Who-Code-DC/events/265183299/) | Women Who Code                            | 6:30pm-8:30pm |  Booz Allen                    |
 | 10/19  | [Tech, Rebalanced Pre-Party](https://www.eventbrite.com/e/celebrating-underrepresented-in-technology-tickets-73145926435) | Tech, Rebalanced                            | 5:30pm-8:00pm |  Verizon Alley                    |
 | 10/19  | [Tech, Rebalanced](https://techrebalanced.com) | Tech, Rebalanced                            | All day |  MakeOffices at the Wharf                    |
 | 10/22  | [Project Night](https://www.meetup.com/Code-for-DC/events/262833552/) | Code for DC                            | 6:30pm-9:00pm |  Social Tables                    |
