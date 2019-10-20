@@ -43,8 +43,6 @@ redirect_from:
 | 10/23  | [Panel: Learning to Lean After the In](https://www.meetup.com/Women-Who-Code-DC/events/265287318/) | Women Who Code                            | 6:30pm-8:30pm |  Booz Allen Innovation Center                    |
 | 10/26  | [NG-Girls (Angular Workshop)](http://ng-girls.org/ng-girls-dc-2019/) | NG-Girls                            | 9:30am-5:30pm |  Arlington Tech eXchange (Excella Consulting)                    |
 
-<h2>More events coming soon!</h2>
-
 <h1><span class="main-headline">Sponsors</span></h1>
 <p class="main-intro l-center">Our sincere thanks to these sponsors who help make this event possible.</p>
 <div class="m-sponsors">
