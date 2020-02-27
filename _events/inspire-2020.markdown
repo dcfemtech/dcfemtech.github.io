@@ -17,6 +17,6 @@ image: assets/promos/inspire.png
 ### Huge thank you to our venue, Diligent!
 <div class="m-sponsors">
   <ul>
-    <img src="assets/sponsors/diligent.png" alt="Diligent">  
+    <img src="assets/sponsors/diligent.png" alt="Diligent" width="145" height="50">
   </ul>
 </div>
